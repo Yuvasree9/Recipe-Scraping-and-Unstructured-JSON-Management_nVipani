@@ -1,0 +1,319 @@
+{
+  "meta": {
+    "title": "Chocolate Cake Recipe",
+    "source_url": "https://preppykitchen.com/ultimate-chocolate-cake/",
+    "description": "Once you try this easy chocolate cake, you’ll never go back to store-bought! Simply whisk the ingredients together for a tender and moist chocolate cake.",
+    "cuisine_type": [
+      "American"
+    ],
+    "course_type": [
+      "Dessert"
+    ],
+    "meal_type": "Unknown",
+    "serving_count": [
+      "12",
+      "12 servings"
+    ],
+    "prep_time": "PT30M",
+    "cook_time": "PT35M",
+    "youtube_link": "https://www.youtube.com/embed/vI5w-fK25w4?feature=oembed",
+    "timestamp": "2025-10-18 02:49:49"
+  },
+  "ingredients": [
+    {
+      "ingredient_name": "all-purpose flour ((240g))",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "cups"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 5.0,
+        "grocery_qty_needed": 0.2,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "granulated sugar ((400g))",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "cups"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 5.0,
+        "grocery_qty_needed": 0.2,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "cup unsweetened cocoa powder ((50g))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "teaspoons baking powder",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "teaspoons baking soda",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "teaspoon kosher salt",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "whole milk ((240mL))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 4.17,
+        "grocery_qty_needed": 0.24,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "eggs",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "large"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 4.5,
+        "grocery_qty_needed": 0.222,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "cup vegetable oil ((180mL))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "vanilla extract",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tablespoon"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "boiling water or hot coffee ((240ml))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 4.17,
+        "grocery_qty_needed": 0.24,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "cups unsalted butter (room temperature (338g))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "cup unsweetened cocoa powder ((25g))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "¼"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "teaspoon salt",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "¼"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "vanilla",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "teaspoon"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "powdered sugar ((680g))",
+      "recipe_quantity": {
+        "value": 6,
+        "unit": "cups"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Sugar",
+        "grocery_unit": "kg",
+        "conversion_ratio": 1.67,
+        "grocery_qty_needed": 0.6,
+        "MOQ": "1 kg",
+        "shelf_life_days": 365
+      },
+      "note": "Fuzzy matched to 'sugar'"
+    },
+    {
+      "ingredient_name": "4 tablespoons whole milk ((45-60mL))",
+      "recipe_quantity": {
+        "value": 3,
+        "unit": "to"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 3.33,
+        "grocery_qty_needed": 0.3,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    }
+  ],
+  "steps": {
+    "prep": [
+      "Preheat the oven to 350°F. Grease 2 (9-inch) round cake pans with butter or baking spray and line the bottom of each pan with parchment paper. (I highly recommend using cake strips for a more even bake.)",
+      "Sift the flour, sugar, cocoa, baking soda, baking powder, and salt into a large mixing bowl and whisk to combine.",
+      "In a medium mixing bowl, whisk together the milk, egg, oil, and vanilla. Add to the flour mixture and whisk together until well combined. Pour in the boiling water or coffee and whisk until well combined. (The batter will be runny.)",
+      "Divide the batter between the prepared cake pans."
+    ],
+    "cook": [
+      "Bake for 35 minutes or until a toothpick inserted in the center comes out clean. Let the cakes cool in the pans on a wire cooling rack for 15 minutes. Carefully invert the cake layers onto the wire rack, remove the parchment paper, and let cool completely.",
+      "In the bowl of a stand mixer fitted with the paddle attachment, beat the butter on medium speed until soft and creamy, about 2 minutes. Add the cocoa powder and salt and mix on low speed until combined. Scrape the bowl down.",
+      "While mixing on low speed, gradually add in the powdered sugar alternating with a little bit of milk on occasion up to 4 tablespoons. Once the sugar is added, beat in the vanilla. Scrape down the bowl and beat on medium-low speed until light and fluffy, about 1 minute.",
+      "Place a cooled cake layer on a cake stand. Top with 1 cup of frosting and spread it out the edges in an even layer. Place the remaining cake layer on top and spread the rest of the frosting all over the outside of the cake. You can reserve some of the frosting to pipe decorations if desired."
+    ]
+  },
+  "nutrition": {
+    "calories_kcal": 9060.72,
+    "carbohydrates_g": 1304.81,
+    "protein_g": 63.18,
+    "fat_g": 413.11,
+    "fiber_g": 18.76,
+    "sodium_mg": 4125.61,
+    "note": "Values are estimated via Nutritionix or similar API"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "title": "chocolate milkshake recipe | chocolate shake | chocolate milk recipe",
+    "source_url": "https://hebbarskitchen.com/chocolate-milkshake-recipe-choco-shake/",
+    "description": "easy chocolate milkshake recipe | chocolate shake | chocolate milk recipe",
+    "cuisine_type": [
+      "international"
+    ],
+    "course_type": [
+      "beverages"
+    ],
+    "meal_type": "Unknown",
+    "serving_count": [
+      "1",
+      "1 Serving"
+    ],
+    "prep_time": "PT5M",
+    "cook_time": "PT1M",
+    "youtube_link": "https://www.youtube.com/embed/ObTSfMMe8NQ?ecver=1",
+    "timestamp": "2025-10-18 01:24:14"
+  },
+  "ingredients": [
+    {
+      "ingredient_name": "full cream milk (cold)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 4.17,
+        "grocery_qty_needed": 0.24,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "cocoa powder (unsweetened)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 133.33,
+        "grocery_qty_needed": 0.007,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "sugar (powdered)",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Sugar",
+        "grocery_unit": "kg",
+        "conversion_ratio": 117.65,
+        "grocery_qty_needed": 0.009,
+        "MOQ": "1 kg",
+        "shelf_life_days": 365
+      },
+      "note": ""
+    },
+    {
+      "ingredient_name": "vanilla ice cream",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "scoop"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "of ice",
+      "recipe_quantity": {
+        "value": 6,
+        "unit": "cubes"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 1.5,
+        "grocery_qty_needed": 0.667,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "chocolate syrup (to decorate)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 300.0,
+        "grocery_qty_needed": 0.003,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "cream (optional)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "whipped"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    }
+  ],
+  "steps": {
+    "prep": [
+      "firstly, in a blender add milk.",
+      "also add cocoa powder and powdered sugar.",
+      "additionally add vanilla ice cream. optionally for more chocolate flavour add in chocolate ice cream.",
+      "furthermore add ice cubes."
+    ],
+    "cook": [
+      "blend to frothy and foamy milkshake.",
+      "further, take a tsp of chocolate syrup and decorate the sides of glass.",
+      "pour the prepared milkshake.",
+      "finally, decorate with more whipped cream or a scoop of ice cream just before serving chocolate milkshake."
+    ]
+  },
+  "nutrition": {
+    "calories_kcal": 371.33,
+    "carbohydrates_g": 43.51,
+    "protein_g": 11.32,
+    "fat_g": 17.09,
+    "fiber_g": 1.62,
+    "sodium_mg": 169.58,
+    "note": "Values are estimated via Nutritionix or similar API"
+  }
+}

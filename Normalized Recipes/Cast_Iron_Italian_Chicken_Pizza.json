@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "title": "Cast Iron Italian Chicken Pizza",
+    "source_url": "https://dudethatcookz.com/italian-chicken-cast-iron-pizza/",
+    "description": "Anything made in a cast-iron skillet is always right on time, and the same goes for this Cast Iron Italian Chicken Pizza.",
+    "cuisine_type": "Italian",
+    "course_type": "Pizza",
+    "meal_type": "Unknown",
+    "serving_count": "8",
+    "prep_time": "PT10M",
+    "cook_time": "PT18M",
+    "youtube_link": null,
+    "timestamp": "2025-10-18 02:54:24"
+  },
+  "ingredients": [
+    {
+      "ingredient_name": "fresh pizza dough",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "lb"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 1.98,
+        "grocery_qty_needed": 0.504,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "ground chicken",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "lb"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 1.98,
+        "grocery_qty_needed": 0.504,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Italian seasoning",
+      "recipe_quantity": {
+        "value": 0.25,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 25.0,
+        "grocery_qty_needed": 0.04,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Muir Glen Organic Pizza Sauce",
+      "recipe_quantity": {
+        "value": 0.5,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 8.33,
+        "grocery_qty_needed": 0.12,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "parsley flakes",
+      "recipe_quantity": {
+        "value": 0.5,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 200.0,
+        "grocery_qty_needed": 0.005,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "chopped black olives",
+      "recipe_quantity": {
+        "value": 0.25,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 25.0,
+        "grocery_qty_needed": 0.04,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Monterey Jack cheese block, cubed",
+      "recipe_quantity": {
+        "value": 8,
+        "unit": "oz"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 3.97,
+        "grocery_qty_needed": 0.252,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Shredded Mozzarella cheese",
+      "recipe_quantity": {
+        "value": 12,
+        "unit": "oz"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 2.65,
+        "grocery_qty_needed": 0.378,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "pastry flour",
+      "recipe_quantity": {
+        "value": 0.3333333333333333,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 25.0,
+        "grocery_qty_needed": 0.04,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    }
+  ],
+  "steps": {
+    "prep": [
+      "Spread pastry flour over the kitchen countertop.",
+      "Place the fresh dough onto the flour and begin to shape the dough into a circle using your hands. Finish shaping and flattening with a roller to a diameter of 13 inches.",
+      "Add ground chicken and Italian seasoning in a large bowl and mix well with your hands. Cook ground chicken in a medium-heat pan until it is partially cooked, breaking the meat apart as it cooks."
+    ],
+    "cook": [
+      "In a cast iron skillet, coat the bottom lightly with olive oil and add your rolled dough into the skillet. Fold the excess dough inside the skillet&#8217;s edge. Spread your pizza sauce evenly over the bottom of the dough.",
+      "Chop your Monterey cheese block into small cubes and spread half over the pizza sauce. Add half of your cooked chicken to the skillet and spread evenly. Add the remaining Monterey cheese over the chicken.",
+      "Add more chicken to the pan, saving a handful to the side for topping. Add shredded mozzarella cheese. Top the cheese with the remaining ground chicken, chopped black olives, and parsley flakes.",
+      "Bake in oven at 400 degrees for 18 minutes. Allow pizza to cool, then serve."
+    ]
+  },
+  "nutrition": {
+    "calories_kcal": 4863.72,
+    "carbohydrates_g": 397.39,
+    "protein_g": 295.84,
+    "fat_g": 232.21,
+    "fiber_g": 24.29,
+    "sodium_mg": 7088.4,
+    "note": "Values are estimated via Nutritionix or similar API"
+  }
+}

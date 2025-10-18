@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "title": "Chai Tea Recipe (Authentic Indian Style!)",
+    "source_url": "https://foodess.com/authentic-indian-chai-tea-recipe/",
+    "description": "An actually-authentic Indian Chai tea recipe, as made for me by my lovely Indian mother-in-law. Make perfect chai at home using this method.",
+    "cuisine_type": [
+      "Indian"
+    ],
+    "course_type": [
+      "Drinks"
+    ],
+    "meal_type": "Unknown",
+    "serving_count": [
+      "1"
+    ],
+    "prep_time": "PT1M",
+    "cook_time": "PT5M",
+    "youtube_link": null,
+    "timestamp": "2025-10-18 03:02:48"
+  },
+  "ingredients": [
+    {
+      "ingredient_name": "water",
+      "recipe_quantity": {
+        "value": 8,
+        "unit": "oz"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 4.41,
+        "grocery_qty_needed": 0.227,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "whole milk",
+      "recipe_quantity": {
+        "value": 4,
+        "unit": "oz"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 8.82,
+        "grocery_qty_needed": 0.113,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "sugar (to taste (about 2 heaped teaspoons per serving, traditionally))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "granulated"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "tablespoon of black tea (empty out tea bags to make a tablespoon if you don't buy loose leaves)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "heaping"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "pods (smashed with side of a knife)",
+      "recipe_quantity": {
+        "value": 4,
+        "unit": "cardamom"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 2.25,
+        "grocery_qty_needed": 0.444,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "piece of cinnamon stick",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "small"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "\" coin of fresh ginger",
+      "recipe_quantity": {
+        "value": 0.25,
+        "unit": "piece"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 36.0,
+        "grocery_qty_needed": 0.028,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "of fennel seeds (about 10 seeds)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "pinch"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    }
+  ],
+  "steps": {
+    "prep": [],
+    "cook": [
+      "Bring water and milk to a simmer with desired spices in a medium saucepan.  Reduce heat to lowest setting and add tea. Steep until tea takes on a deep, pinky-tan colour, about 3 minutes, stirring occasionally.  Strain into a cup and stir in sugar to taste."
+    ]
+  },
+  "nutrition": {
+    "calories_kcal": 117.29,
+    "carbohydrates_g": 16.59,
+    "protein_g": 4.18,
+    "fat_g": 4.22,
+    "fiber_g": 1.41,
+    "sodium_mg": 63.47,
+    "note": "Values are estimated via Nutritionix or similar API"
+  }
+}

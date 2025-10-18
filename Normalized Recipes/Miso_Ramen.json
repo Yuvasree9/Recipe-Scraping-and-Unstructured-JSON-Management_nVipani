@@ -1,0 +1,443 @@
+{
+  "meta": {
+    "title": "Miso Ramen",
+    "source_url": "https://www.justonecookbook.com/homemade-chashu-miso-ramen/",
+    "description": "My quick and delicious Miso Ramen recipe with an intensely savory broth is ready in less than 30 minutes. With 5 key soup broth ingredients, this piping-hot bowl of soulful goodness is sure to satisfy your ramen cravings!",
+    "cuisine_type": [
+      "Japanese"
+    ],
+    "course_type": [
+      "Main Course",
+      "Soup"
+    ],
+    "meal_type": "Unknown",
+    "serving_count": [
+      "2"
+    ],
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "youtube_link": null,
+    "timestamp": "2025-10-18 03:07:23"
+  },
+  "ingredients": [
+    {
+      "ingredient_name": "garlic",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "cloves"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Garlic Bulb",
+        "grocery_unit": "kg",
+        "conversion_ratio": 118.75,
+        "grocery_qty_needed": 0.008,
+        "MOQ": "0.5 kg",
+        "shelf_life_days": 7
+      },
+      "note": ""
+    },
+    {
+      "ingredient_name": "tsp ginger ((grated))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Unknown Ingredient",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "shallot"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "toasted white sesame seeds",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 100.0,
+        "grocery_qty_needed": 0.01,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "toasted sesame oil",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 66.67,
+        "grocery_qty_needed": 0.015,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "lb ground pork ((use meat alternatives or chopped mushrooms for vegan/vegetarian))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "¼"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "doubanjiang (spicy chili bean paste)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 300.0,
+        "grocery_qty_needed": 0.003,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "miso ((most types will work except Saikyo and Hatcho; each type will create a slightly different broth flavor))",
+      "recipe_quantity": {
+        "value": 3,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 33.33,
+        "grocery_qty_needed": 0.03,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "sugar",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Sugar",
+        "grocery_unit": "kg",
+        "conversion_ratio": 78.43,
+        "grocery_qty_needed": 0.013,
+        "MOQ": "1 kg",
+        "shelf_life_days": 365
+      },
+      "note": ""
+    },
+    {
+      "ingredient_name": "sake",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 100.0,
+        "grocery_qty_needed": 0.01,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "chicken stock/broth ((use vegetable stock for vegan/vegetarian))",
+      "recipe_quantity": {
+        "value": 4,
+        "unit": "cups"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 2.25,
+        "grocery_qty_needed": 0.444,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Diamond Crystal kosher salt ((to taste))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 400.0,
+        "grocery_qty_needed": 0.003,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "tsp white pepper powder",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "¼"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "fresh ramen noodles",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "servings"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 4.5,
+        "grocery_qty_needed": 0.222,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Chashu (Japanese Braised Pork Belly)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "homemade"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Bean Sprout Salad ((or blanched bean sprouts))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "spicy"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Egg (Ajitsuke Tamago)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "ramen"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "or canned corn ((drained))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "frozen"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "(dried laver seaweed) ((cut a sheet into quarters))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "nori"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "onion/scallion ((chopped))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "green"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Negi (julienned long green onions)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "shiraga"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "-yu (Japanese chili oil) ((make my Homemade La-yu))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "la"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "red ginger (beni shoga or kizami beni shoga)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "pickled"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "pepper powder",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "white"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    }
+  ],
+  "steps": {
+    "prep": [
+      "Prepare the ramen toppings ahead of time—a day in advance for the Homemade Chashu (Japanese Braised Pork Belly) and Ramen Egg (Ajitsuke Tamago)—so they‘re ready to serve with your piping-hot bowl of ramen.",
+      "For toppings, I add chashu, ramen egg, blanched bean sprouts (or Spicy Bean Sprout Salad), frozen or canned corn, Shiraga Negi (julienned long green onions), chopped green onion/scallion, and a quarter sheet of nori (dried laver seaweed). You can find the recipes in the hyperlinks. For the optional condiments, prepare a bottle of la-yu (Japanese chili oil), pickled red ginger (beni shoga or kizami beni shoga), and some white pepper powder on the table.",
+      "Gather all the ingredients.",
+      "Mince or press 2 cloves garlic (I use a garlic press) and add to a small plate. Then, grate the ginger (I use a ceramic grater) and add ½ tsp ginger (grated) to the plate.",
+      "Mince 1 shallot and add to the plate. Set the ingredients aside.",
+      "Grind 1 Tbsp toasted white sesame seeds, leaving some seeds unground for texture. Set aside.",
+      "Preheat a medium pot over medium-low heat. When it‘s hot, add 1 Tbsp toasted sesame oil. Then, add the garlic, ginger, and shallot.",
+      "With a wooden spatula, stir-fry until fragrant.",
+      "Add ¼ lb ground pork and increase the heat to medium. Cook the meat until it‘s no longer pink.",
+      "Add 1 tsp doubanjiang (spicy chili bean paste) and 3 Tbsp miso. Quickly blend well with the meat without them getting burnt."
+    ],
+    "cook": [
+      "Add the ground sesame seeds and 1 Tbsp sugar and mix well.",
+      "Add 1 Tbsp sake and 4 cups chicken stock/broth and bring the mixture to a simmer.",
+      "Taste your soup and add up to 1 tsp Diamond Crystal kosher salt (if necessary) and ¼ tsp white pepper powder. Tip: Each brand of chicken stock varies in saltiness, so you must taste your soup to decide how much salt to add.",
+      "Your soup broth is now done. Cover with the lid and keep the soup broth simmering while you cook the noodles.",
+      "Bring a large pot of unsalted water to a boil (ramen noodles already include salt in the dough). When the water is boiling, ladle some of the hot water into the individual ramen bowls to warm them up. Meanwhile, gently shake 2 servings fresh ramen noodles with your hand to separate and loosen them.",
+      "Cook the noodles according to the package instructions. I cook the noodles al dente so they&#39;re still firm, about 15 seconds less than the suggested cooking time. Before your noodles are done cooking, empty the hot water from the warmed ramen bowls.",
+      "When the noodles are done, quickly pick them up with a mesh sieve and shake out the excess water. Make sure to drain it well, as you don’t want the boiling water to dilute your soup. Serve the noodles into the warmed bowls.",
+      "Add the piping-hot ramen soup broth to each bowl.",
+      "Place the toppings of your choice on the ramen noodles and serve immediately. Add the optional condiments and enjoy.",
+      "You can keep the soup broth in the refrigerator for 3 days. Cook the noodles right before serving."
+    ]
+  },
+  "nutrition": {
+    "calories_kcal": 4443.41,
+    "carbohydrates_g": 410.69,
+    "protein_g": 256.84,
+    "fat_g": 195.94,
+    "fiber_g": 35.13,
+    "sodium_mg": 15967.7,
+    "note": "Values are estimated via Nutritionix or similar API"
+  }
+}

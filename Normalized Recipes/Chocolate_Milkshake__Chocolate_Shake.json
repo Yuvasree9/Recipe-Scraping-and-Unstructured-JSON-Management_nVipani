@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "title": "Chocolate Milkshake | Chocolate Shake",
+    "source_url": "https://www.vegrecipesofindia.com/chocolate-milkshake-recipe/",
+    "description": "Chocolate Milkshake is one of those milkshakes that is liked by both kids and adults alike. I share a super easy, quick and yummy way of making a Chocolate Shake recipe with cocoa powder, milk, sugar and chocolate ice cream.",
+    "cuisine_type": [
+      "World"
+    ],
+    "course_type": [
+      "Beverages"
+    ],
+    "meal_type": "Unknown",
+    "serving_count": [
+      "2"
+    ],
+    "prep_time": "PT10M",
+    "cook_time": "N/A",
+    "youtube_link": null,
+    "timestamp": "2025-10-18 01:24:14"
+  },
+  "ingredients": [
+    {
+      "ingredient_name": "cup water (- warm)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "¼"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "cocoa powder",
+      "recipe_quantity": {
+        "value": 3,
+        "unit": "tablespoons"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 3.33,
+        "grocery_qty_needed": 0.3,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "cup sugar (or add as per taste)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "¼"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "whole milk (- cold)",
+      "recipe_quantity": {
+        "value": 2.5,
+        "unit": "cups"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 4.0,
+        "grocery_qty_needed": 0.25,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "8  ice cubes (- optional)",
+      "recipe_quantity": {
+        "value": 6,
+        "unit": "to"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 1.5,
+        "grocery_qty_needed": 0.667,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "3 scoops chocolate ice cream (- optional)",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "to"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 4.5,
+        "grocery_qty_needed": 0.222,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "3 tablespoon chocolate sauce (- optional)",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "to"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 5.0,
+        "grocery_qty_needed": 0.2,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    }
+  ],
+  "steps": {
+    "prep": [
+      "In a small bowl, take warm water.",
+      "Add 3 tablespoons cocoa powder. You can also opt to add 2 tablespoons cocoa powder.",
+      "Next add sugar. You can add sugar less or more according to your taste preferences.",
+      "Mix very well so that the sugar as well as the cocoa powder is dissolved in the warm water.",
+      "Now pour this cocoa syrup in a blender or mixer."
+    ],
+    "cook": [
+      "Add some ice cubes and 2.5 cups milk.",
+      "Blend till smooth.",
+      "Drizzle some chocolate syrup at the sides of glasses. This is an optional step.",
+      "Pour chocolate milkshake in glasses.",
+      "Then add a scoop of chocolate ice cream.",
+      "Serve immediately."
+    ]
+  },
+  "nutrition": {
+    "calories_kcal": 1211.72,
+    "carbohydrates_g": 180.73,
+    "protein_g": 30.92,
+    "fat_g": 43.75,
+    "fiber_g": 6.84,
+    "sodium_mg": 465.22,
+    "note": "Values are estimated via Nutritionix or similar API"
+  }
+}

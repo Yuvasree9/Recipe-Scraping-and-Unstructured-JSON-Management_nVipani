@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Dosa Recipe, How to make Dosa Batter",
+    "source_url": "https://www.indianhealthyrecipes.com/dosa-recipe-dosa-batter/",
+    "description": "Dosa recipe - South Indian Lentil crepes made with fermented dosa batter. These are known as dosa or dosai and are a popular breakfast food. These are served with chutney, potato masala and sambar.",
+    "cuisine_type": [
+      "South Indian"
+    ],
+    "course_type": [
+      "Breakfast"
+    ],
+    "meal_type": "Unknown",
+    "serving_count": [
+      "12",
+      "12 dosas"
+    ],
+    "prep_time": "PT720M",
+    "cook_time": "PT25M",
+    "youtube_link": "https://www.youtube.com/embed/qsp1wBxan6Y?rel=0",
+    "timestamp": "2025-10-18 02:06:51"
+  },
+  "ingredients": [
+    {
+      "ingredient_name": "cup urad dal ((or whole skinned black gram))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "to 1 cup cold filtered water ((to blend dal))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "¾"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "cups rice ((regular raw rice or basmati rice, Refer notes))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "cup cold filtered water ((to blend rice, may need 2 tbsps more))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "chana dal ((bengal gram))",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "tablespoon"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 4.5,
+        "grocery_qty_needed": 0.222,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "teaspoon fenugreek seeds ((methi seeds) (optional))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "poha ((flattened rice))",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "tablespoon"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 5.0,
+        "grocery_qty_needed": 0.2,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "teaspoon rock salt  ((or non iodized salt or crystal salt))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "cup whole urad dal ((skinned whole black gram))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "to 1 cup cold filtered water ((to blend dal))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "¾"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "cup rice ((regular raw rice or basmati rice, refer notes) )",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "cup cold filtered water ((to blend rice, may need 2 tbsps more))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "teaspoon methi seeds ((fenugreek seeds) (makes dosas golden))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "poha ((flattened rice, or substitute ¼ teaspoon methi seeds))",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "tablespoons"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 5.0,
+        "grocery_qty_needed": 0.2,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "teaspoon rock salt  ((or non iodized salt or crystal salt))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    }
+  ],
+  "steps": {
+    "prep": [
+      "Rinse together urad dal, chana dal and methi seeds thrice and soak in enough water for 4 to 6 hours.",
+      "Rinse rice thrice and soak in enough water for 4 to 6 hours. (If you have a high speed blender you may rinse and soak them together, read faqs)",
+      "Rinse and soak poha in ¼ cup water for 30 mins, before blending the batter.",
+      "Drain the water from the dal &amp; transfer to a blender jar along with soaked poha and water. Grind to a smooth &amp; bubbly batter. It should be of thick pouring consistency. Transfer this to a large pot (enough to hold the fermented batter).",
+      "Drain the water completely from rice & add it to the jar. Pour water and blend to a smooth or slightly coarse batter. It will be of thick pouring consistency.",
+      "Pour this to the batter bowl and mix well. (Check video to see the final consistency)",
+      "Cover the bowl loosely and ferment it in a warm place until the batter rises and turns light & bubbly. It may take anywhere from 6 to 18 hours depending on the temperature.",
+      "If you live in a warm region, you can leave the batter bowl on the counter overnight.",
+      "To ferment in colder regions, preheat the oven at the lowest setting (120 F/ 50 C) for 7 mins, no longer. Turn off the oven and keep the dosa batter inside with the oven light ON. Alternately, place the batter bowl in your instant pot steel insert, press yogurt settings with a timer set to 8 hours (12 to 14 hours during colder days). Use an external lid and not the IP lid.",
+      "Optional Fermentation test: Well fermented dosa batter rises &amp; increases in volume. It looks airy, with plenty of tiny bubbles. To test, drop half a spoon of this into a bowl of water. Well fermented batter floats. If it has not reached this stage, ferment longer."
+    ],
+    "cook": [
+      "Stir the dosa batter once. Transfer the required portion to a small bowl and add salt as required. Refrigerate the rest for up to 1 to 2 weeks.",
+      "The fermented batter usually becomes thick, pour little water to thin down & bring it to spreadable consistency. (Check video or photos in the post)",
+      "Heat a dosa griddle/ tawa on a medium heat. When it is slightly hot, add a few drops of oil and spread it with a kitchen paper or a half cut onion (pierced with a fork/ butter knife on the rounded side to hold).This prevents the dosas from sticking to the pan.",
+      "To check if the pan is hot enough, sprinkle a few drops of water over the pan. If it is ready, it should sizzle.",
+      "Reduce the heat to low, stir the batter with a ladle and take a ladle (¼ cup) of dosa batter & pour in the center of the hot griddle/ tawa.",
+      "Immediately begin to spread it evenly with the base of the ladle - starting from the center, in an outward circular motion in a clockwise direction. (Check photos or video in the post)",
+      "Increase the heat to medium high or high and drizzle oil/ghee/ butter across the edges.",
+      "Cook until the base turns golden & crisp. Run a thin wooden turner/spatula across the base of the dosa, starting from the edges to the center.",
+      "Optional - If you want you may cook on the other side - turn it to the other side and cook for a minute. Turn again and cook the base for 30 seconds to crisp it.",
+      "Fold the dosa and remove from pan. Before making the next dosa, reduce the heat to low. You can also rub the cut onion and then pour the batter.",
+      "Serve dosa with coconut chutney, potato masala & tiffin sambar."
+    ]
+  },
+  "nutrition": {
+    "calories_kcal": null,
+    "carbohydrates_g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "note": "Values are estimated via Nutritionix or similar API"
+  }
+}

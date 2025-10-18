@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "title": "Homemade Chinese Egg Noodles From Scratch",
+    "source_url": "https://gingerandscotch.com/homemade-chinese-egg-noodles-from-scratch/",
+    "description": "A fun and easy recipe for homemade Chinese Egg Noodles from scratch that can be made by hand or with a pasta machine. Perfectly chewy and springy, these noodles will hold up well in your favorite soup or stir-fry sauce without turning mushy.",
+    "cuisine_type": [
+      "Chinese"
+    ],
+    "course_type": [
+      "Main Course"
+    ],
+    "meal_type": "Unknown",
+    "serving_count": [
+      "4",
+      "4 people"
+    ],
+    "prep_time": "PT75M",
+    "cook_time": "PT5M",
+    "youtube_link": null,
+    "timestamp": "2025-10-18 03:09:00"
+  },
+  "ingredients": [
+    {
+      "ingredient_name": "all-purpose flour",
+      "recipe_quantity": {
+        "value": 240,
+        "unit": "grams"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 0.04,
+        "grocery_qty_needed": 24.0,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "salt",
+      "recipe_quantity": {
+        "value": 0.5,
+        "unit": "teaspoon"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 20.0,
+        "grocery_qty_needed": 0.05,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "baked baking soda ( or 1 teaspoon lye water (aka \"kansui\"))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "teaspoon"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "Unknown Ingredient",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "eggs"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 4.5,
+        "grocery_qty_needed": 0.222,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "-2 tablespoons water",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "piece"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    }
+  ],
+  "steps": {
+    "prep": [
+      "Mix flour and salt together.&nbsp;In a large bowl, add the flour and salt together and mix a couple times with a fork or chopstick.",
+      "Make alkaline solution.&nbsp;If using kansui: Crack the eggs into a small bowl and add the lye water (aka kansui) to the eggs.If using *baked* baking soda: Dissolve the baked baking soda in 1 tablespoon of water and mix (make sure there are no lumpy bits) and then add the mixture to the eggs.Whisk eggs a few times with a fork or chopstick to thoroughly mix the eggs and kansui/baking soda.",
+      "Add alkaline egg mixture to the flour and squish into a ball.&nbsp;Pour the eggs into the bowl of flour and mix with a fork or chopstick.&nbsp;The flour will become a crumbly texture and that is what you want for now.&nbsp;Use your hands to squish the flour crumbs together into a ball.&nbsp;If the flour doesn’t completely form a ball after a bit of squeezing, then add more water, but only a tablespoon at a time, until you get one cohesive ball.&nbsp;You are aiming for – a dry and crumbly looking dough with barely any crumbs left in the mixing bowl.",
+      "Knead dough for 1 minute and rest for 30 minutes at room temperature.&nbsp;Knead the dough for a minute and then wrap it in plastic (or place it in a bowl covered with a damp towel) so that it doesn’t dry out.&nbsp;Allow the dough to rest at room temperature for 30 minutes."
+    ],
+    "cook": [
+      "Beat the dough for 3 to 5 minutes.&nbsp;Take the dough out of the plastic wrap (do not toss the plastic wrap away as you’ll need it again) and knead it for about 3-5 minutes.This is not a difficult dough to knead like ramen dough but little helpers might have trouble doing it themselves.  In that case, you can hand your child a rolling pin and use it to beat the dough on all sides for those two minutes.Use a large-diameter rolling pin, preferably one with a long handle that they can hold on to. But anything will do as long as you don’t hurt yourself.&nbsp;",
+      "Rest dough for another 30 minutes.&nbsp;Form the dough into a ball, wrap it in plastic (or place it in a bowl covered with a damp towel) and rest it for 30 minutes at room temperature.If you won’t be using the dough immediately, stick it in the fridge and take it out 30 minutes before you need it so that it returns to room temperature.",
+      "Roll the dough flat with a pasta machine (or by hand).Take the dough out of the plastic wrap, give it a few quick kneads.  Divide your dough in half and return the unused half to it’s plastic wrap or towel-covered bowl.Flatten the other half of your dough as much as possible by hand (or whack with the rolling pin again) and start feeding it through the pasta machine.Starting with the widest roller setting, feed the dough through 3-4 times. Then adjust the rollers to the next setting and feed dough through 2 times per setting until desired thinness. We liked the dough thickness of level 6 (~1.2 mm).If rolling by hand, be sure to sprinkle lots of flour on the dough and the rolling pin so that the dough doesn’t stick.",
+      "Cut dough into long strips of noodles with the pasta machine (or by hand).Finally we are ready to cut the dough into strands! Our Marcato pasta machine came with two size options – a thick fettucine size and a thin spaghettini size. We used the spaghettini cutter to make thin Chinese egg noodles. (For thicker noodles, which my dad prefers, we tried the fettucine cutter but it was too wide so we just used a large knife to cut the dough into the width he likes.)First, cut the dough in half if it is too long to work with.Next, lightly dust the dough with flour or corn starch and then pass it through the cutters.Repeat with the other half of the dough.If cutting by hand, fold the dough in layers either like a tri-fold letter or into an S-shape. Cut into strands with a large knife to desired thickness. Remember that the noodles will expand slightly when cooked.After the dough is cut into strips, sprinkle more flour or corn starch over the noodles before jiggling the shaking them open into long beautiful strands.",
+      "Simmer noodles in boiling water.&nbsp;Bring a large pot of water to boil. Do not add salt. Cook the noodles for 2 to 3 minutes depending on thickness of your strands.&nbsp;Test cook a few strands before throwing in the whole batch. It is better to undercook the noodles slightly than to overcook them because they will continue to soften as they absorb the liquid in the final soup or sauce.&nbsp;Drain, rinse with cool water so they don’t stick.&nbsp;Serve with your favorite soup or stir-fry sauce."
+    ]
+  },
+  "nutrition": {
+    "calories_kcal": 1016.6,
+    "carbohydrates_g": 183.86,
+    "protein_g": 37.35,
+    "fat_g": 11.86,
+    "fiber_g": 6.48,
+    "sodium_mg": 2464.19,
+    "note": "Values are estimated via Nutritionix or similar API"
+  }
+}

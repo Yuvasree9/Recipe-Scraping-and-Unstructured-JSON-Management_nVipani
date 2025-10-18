@@ -1,0 +1,492 @@
+{
+  "meta": {
+    "title": "Chicken Biryani Recipe",
+    "source_url": "https://www.indianhealthyrecipes.com/chicken-biryani-recipe/",
+    "description": "Aromatic, delicious and spicy one pot chicken biryani made with basmati rice, spices, chicken and herbs. This is a beginners recipe and can be made with ease. Serve chicken biryani with raita or salan (gravy).",
+    "cuisine_type": [
+      "Indian"
+    ],
+    "course_type": [
+      "Main"
+    ],
+    "meal_type": "Unknown",
+    "serving_count": [
+      "4",
+      "4 people"
+    ],
+    "prep_time": "PT60M",
+    "cook_time": "PT25M",
+    "youtube_link": "https://www.youtube.com/embed/imuTZ3EwCWA?rel=0",
+    "timestamp": "2025-10-18 02:01:36"
+  },
+  "ingredients": [
+    {
+      "ingredient_name": "kg (1.1 lbs)  chicken ((skinless bone-in or boneless, large pieces such as thighs, drumsticks, legs or mix of all))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "plain yogurt ((curd or dahi))",
+      "recipe_quantity": {
+        "value": 3,
+        "unit": "tablespoons"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 3.0,
+        "grocery_qty_needed": 0.333,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "tablespoons ginger garlic paste ((1 inch ginger &amp; 4 garlic cloves crushed))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "¼"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "to ¾ teaspoon salt ((adjust to tase))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "teaspoon turmeric",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "¼"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "to 1 teaspoon red chilli powder  ((or paprika) (use less spicy variety))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "to 1 tablespoon garam masala ((or biryani masala) (Refer notes))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Lemon juice  ((optional))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tablespoon"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "leaf  ((tej patta))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "bay"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "cardamoms ((choti elaichi))",
+      "recipe_quantity": {
+        "value": 4,
+        "unit": "green"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 2.25,
+        "grocery_qty_needed": 0.444,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "((lavang))",
+      "recipe_quantity": {
+        "value": 6,
+        "unit": "cloves"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 1.5,
+        "grocery_qty_needed": 0.667,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "cinnamon ((dalchini))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "inch"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "anise ((chakri phool ))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "star"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "teaspoon shahi jeera ((caraway seeds) (substitute with cumin))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "¾"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "mace  ((javitri, omit if you don&#39;t like))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "strand"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "basmati rice ((aged rice only))",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "cups"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 5.0,
+        "grocery_qty_needed": 0.2,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "ghee (or Oil)",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "tablespoon"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 5.0,
+        "grocery_qty_needed": 0.2,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "onion  (sliced thinly)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "large"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "to ½ cup mint leaves (chopped fine (about 15 leaves))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "¼"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "chili ((slit or chopped))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "green"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "cup plain yogurt ((Indian curd))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "¼"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "to ½ teaspoon red chili powder  ((optional, for heat))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "¼"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "garam masala ((or biryani masala))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "teaspoon"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "water ((3½ cups for pot) (refer notes, more if needed ))",
+      "recipe_quantity": {
+        "value": 3,
+        "unit": "cups"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 3.33,
+        "grocery_qty_needed": 0.3,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "teaspoon salt ((to stir in water))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "¾"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "fried onions ((optional))",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "tablespoon"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 4.5,
+        "grocery_qty_needed": 0.222,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "saffron ((optional)(soaked in 2 tbsps hot milk))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "pinch"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    }
+  ],
+  "steps": {
+    "prep": [
+      "To a bowl, add yogurt, ginger garlic paste, salt, garam masala, turmeric, lemon juice &amp; red chili powder.",
+      "Mix up well and taste the marinade. Add more salt and spice if needed.",
+      "Make slits on the chicken pieces. Add it to the marinade &amp; mix well. Cover and set aside for 1 hour to overnight. ",
+      "Rinse basmati rice thrice and soak for 30 mins. Drain to a colander after 30 mins.",
+      "Heat ghee or oil in a pot or pressure cooker.",
+      "Add whole spices - bay leaf, cardamoms, cloves, cinnamon, star anise, shahi jeera &amp; mace. Skip them if you do not have.",
+      "When the spices begin to sizzle, add onions &amp; fry them evenly stirring often until uniformly light brown but not burnt.",
+      "Add chicken &amp; saute until pale for 5 mins on a medium heat. ",
+      "Cover &amp; cook on a low flame until the chicken is soft cooked or tender. Saute to evaporate any excess moisture in the pot.",
+      "Taste test and add more salt if needed. Add yogurt (curd), half of the chopped mint leaves, slit green chili, red chili powder &amp; garam masala."
+    ],
+    "cook": [
+      "Mix everything well and layer chicken evenly at the bottom. (check video)",
+      "Spread drained rice in a layer over the chicken.",
+      "To a separate pot, pour water. If cooking in a pot use more water.",
+      "Add salt and mix. Taste the water. It must be slightly salty. Bring this to a rolling boil.",
+      "Pour 2 cups of this hot water across the sides of the cooker or pot. Gently pour the rest on top of the rice. (check video)",
+      "Level the rice if needed. Sprinkle the rest of the mint leaves. Optionally add fried onions &amp; saffron soaked milk if using.",
+      "Pot method - If cooking in a pot, cover and cook on a medium flame until the rice in the chicken biryani is cooked completely but not mushy or undercooked. (Takes me 15 mins, from the time the water boils in the pot, may be different for you). If the rice is still under cooked or hard &amp; there is no water at the bottom, pour ¼ to ½ cup more boiling water depending on the kind of rice used and cook further. When done it has to be fully cooked, yet remain grainy but not mushy.",
+      "Cooker method - Set the flame to medium high. Cover &amp; place the whistle. Cook until you hear 1 whistle. Move the cooker away from the burner to stop cooking further. ",
+      "Rest until the pressure drops naturally. Fluff up the chicken biryani with a fork. ",
+      "Serve from top to the bottom layer. Each serving gets biryani rice from top and chicken from the bottom layer.",
+      "Enjoy chicken biryani with raita and sliced veggies, papad and shorba (biryani gravy)."
+    ]
+  },
+  "nutrition": {
+    "calories_kcal": 3363.93,
+    "carbohydrates_g": 257.83,
+    "protein_g": 237.71,
+    "fat_g": 152.79,
+    "fiber_g": 18.9,
+    "sodium_mg": 5351.13,
+    "note": "Values are estimated via Nutritionix or similar API"
+  }
+}
