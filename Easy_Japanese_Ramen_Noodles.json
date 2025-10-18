@@ -1,0 +1,506 @@
+{
+  "meta": {
+    "title": "Easy Japanese Ramen Noodles",
+    "source_url": "https://japan.recipetineats.com/easy-japanese-ramen-noodles/",
+    "description": "Easy Japanese Ramen Noodles recipe uses store bought soup and noodles, but the toppings are homemade. With a little bit of effort to make good toppings, you can enjoy great ramen almost like the ones you order at restaurants.The recipe explains how to make ramen with 3 different toppings.",
+    "cuisine_type": [
+      "Japanese"
+    ],
+    "course_type": [
+      "Main"
+    ],
+    "meal_type": "Unknown",
+    "serving_count": [
+      "1"
+    ],
+    "prep_time": "PT10M",
+    "cook_time": "PT5M",
+    "youtube_link": null,
+    "timestamp": "2025-10-18 03:07:23"
+  },
+  "ingredients": [
+    {
+      "ingredient_name": "of ramen soup ((note 1))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "sachet"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "-100 g (2.8-3.5oz) fresh thin egg noodles ((note 2))",
+      "recipe_quantity": {
+        "value": 80,
+        "unit": "piece"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 0.11,
+        "grocery_qty_needed": 8.889,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "of thinly sliced  yakibuta (braised pork) ((note 3))",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "slices"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 4.5,
+        "grocery_qty_needed": 0.222,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "egg halved ((note 4))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "boiled"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "chopped green onions",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 50.0,
+        "grocery_qty_needed": 0.02,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "x 10cm (4\" x 4\") nori ((roasted seaweed sheet))",
+      "recipe_quantity": {
+        "value": 10,
+        "unit": "cm"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 0.9,
+        "grocery_qty_needed": 1.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "(2.5oz) thinly sliced pork",
+      "recipe_quantity": {
+        "value": 70,
+        "unit": "g"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 12.86,
+        "grocery_qty_needed": 0.078,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "mushroom, thinly sliced",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "shiitake"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "(1.1oz) carrot halved vertically then diagonally sliced thinly",
+      "recipe_quantity": {
+        "value": 30,
+        "unit": "g"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 30.0,
+        "grocery_qty_needed": 0.033,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "of cabbage chopped into bite size pieces",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "cups"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 4.5,
+        "grocery_qty_needed": 0.222,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "bean sprouts",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 6.25,
+        "grocery_qty_needed": 0.16,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "-5  small buck choy leaves ((or 2-3 large leaves cut in half))",
+      "recipe_quantity": {
+        "value": 4,
+        "unit": "piece"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 2.25,
+        "grocery_qty_needed": 0.444,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "onion (cut into 5cm (2”) pieces)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "green"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "(0.9oz) garlic chives cut into 5cm ((2”) pieces)",
+      "recipe_quantity": {
+        "value": 20,
+        "unit": "g"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 45.0,
+        "grocery_qty_needed": 0.022,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "oil",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 200.0,
+        "grocery_qty_needed": 0.005,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "sauce ingredients per  Happosai (Combination Stir Fry) (recipe (1 person worth))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "happosai"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "sesame oil",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 200.0,
+        "grocery_qty_needed": 0.005,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "minced garlic",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Garlic Bulb",
+        "grocery_unit": "kg",
+        "conversion_ratio": 316.67,
+        "grocery_qty_needed": 0.003,
+        "MOQ": "0.5 kg",
+        "shelf_life_days": 7
+      },
+      "note": ""
+    },
+    {
+      "ingredient_name": "minced ginger",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 300.0,
+        "grocery_qty_needed": 0.003,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "(3.5oz) pork thinly sliced into bite size pieces",
+      "recipe_quantity": {
+        "value": 100,
+        "unit": "g"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "(7oz) beansprouts",
+      "recipe_quantity": {
+        "value": 200,
+        "unit": "g"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 4.5,
+        "grocery_qty_needed": 0.222,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "(1.1) garlic chives",
+      "recipe_quantity": {
+        "value": 30,
+        "unit": "g"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 30.0,
+        "grocery_qty_needed": 0.033,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Chinese style chicken stock powder ((note 6))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 400.0,
+        "grocery_qty_needed": 0.003,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "tsp soy sauce",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "tsp chilli bean sauce",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "tbsp corn flour (corn starch) diluted in 1 tbsp water",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "(chilli oil)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "rayu"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "pepper",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "ground"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    }
+  ],
+  "steps": {
+    "prep": [
+      "Open the ramen soup sachet (note 7) and squeeze the contents out into a serving bowl.",
+      "Boil about 600ml (20oz) water in a kettle.",
+      "Boil water in a small to medium pot to cook noodles. If noodles are stack together, untangle as much as possible then add to the boiling water.",
+      "Using chopsticks or a fork, untangle the noodles to separate individual strands. If water starts bubbling and reaching to the rim of the pot, reduce the heat to medium high to medium so that the water is still boiling rapidly but does not overflow.",
+      "Cook for about 30 seconds to 1 minute and drain (note 8).",
+      "Add 400-500ml (13.5 – 16.9oz) of boiling water (note 9) from the kettle to the serving bowl with the condensed soup, then transfer the noodles into the bowl. Tidy up the noodles to submerge in the soup.",
+      "Place topping of your choice and serve immediately with chilli oil and ground pepper if you are using.",
+      "Make sure that the yakibuta and boiled egg are at room temperature. If direct from the fridge, warm up for 15 seconds or so in the microwave.",
+      "Place yakibuta slices and egg gently on the surface of the ramen, add the challots, then slide the nori diagonally along the inside wall of the bowl.",
+      "Start cooking when the pot of water for the noodles is placed on the cooktop to heat."
+    ],
+    "cook": [
+      "Follow the instructions in the Happosai (Combination Stir Fry) recipe using the ingredients listed above.",
+      "If topping is cooked before noodles are ready, turn off the heat and reheat when noodles are ready.",
+      "Pour the topping over the noodles in the serving bowl.",
+      "Start cooking when the small bubbles in the pot of water for the noodles start appearing.",
+      "Heat sesame oil in a wok or a frypan over high heat. Add garlic and ginger and stir fry for 15 seconds.",
+      "Add meat and cook for about a minute until the meat is almost cooked through.",
+      "Add bean sprouts and garlic chives, stir for about 30 seconds to 1 minute.",
+      "Add chicken stock powder, soy sauce, chilli bean paste and stir well so that the flavours mix evenly.",
+      "Add cornflour/corn starch with water and mix quickly to evenly thicken the topping.",
+      "Pour over the noodles in the bowl."
+    ]
+  },
+  "nutrition": {
+    "calories_kcal": 12970.47,
+    "carbohydrates_g": 2196.84,
+    "protein_g": 490.8,
+    "fat_g": 245.66,
+    "fiber_g": 126.66,
+    "sodium_mg": 4976.62,
+    "note": "Values are estimated via Nutritionix or similar API"
+  }
+}

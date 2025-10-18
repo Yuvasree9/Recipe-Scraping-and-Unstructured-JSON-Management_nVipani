@@ -1,0 +1,390 @@
+{
+  "meta": {
+    "title": "Sambar rice",
+    "source_url": "https://www.indianhealthyrecipes.com/sambar-sadam-sambar-rice/",
+    "description": "Simple sambar rice known as sambar sadam in tamil. Sambar rice is a flavorful dish made with rice, lentils, sambar powder &amp; vegetables.",
+    "cuisine_type": [
+      "Tamilnadu"
+    ],
+    "course_type": [
+      "Main"
+    ],
+    "meal_type": "Unknown",
+    "serving_count": [
+      "2"
+    ],
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "youtube_link": null,
+    "timestamp": "2025-10-18 02:58:30"
+  },
+  "ingredients": [
+    {
+      "ingredient_name": "cup toor dal (+ 2 tbsps  (or 6 tbsp, refer notes))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "¼"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "cup rice ((brown rice, white rice or millets))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "water",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "cups"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 5.0,
+        "grocery_qty_needed": 0.2,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "curry leaves",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "sprig"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "asafoetida ((hing))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "pinch"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "tbsp ghee (or oil as needed)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "turmeric ((haldi))",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "pinches"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 4.5,
+        "grocery_qty_needed": 0.222,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "tsp red chilli powder ((optional, refer notes))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "¼"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "10   shallots (or 1 medium onion cubed)",
+      "recipe_quantity": {
+        "value": 8,
+        "unit": "to"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 1.12,
+        "grocery_qty_needed": 0.889,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "((small or half, cut to 2 inch pieces))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "drumstick"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "( sliced or cubed)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "carrot"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "( medium, chopped)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tomato"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "tamarind ((Small lemon sized ))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 100.0,
+        "grocery_qty_needed": 0.01,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "tsp salt ((adjust to taste))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "tsp chana dal ((bengal gra))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "tsp urad dal ((skinned black gram))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "chilies",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "red"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "tsp cumin seeds ((jeera))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "tsp coriander seeds",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "tbsp coconut ( fresh or dry)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "¾"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "tsp methi  (seeds or fenugreek seeds)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "⅛"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    }
+  ],
+  "steps": {
+    "prep": [
+      "You can skip this step if you have sambar powder ready. To make the powder, heat a pan and dry roast urad dal, chana dal and red chilies on a medium flame until lightly golden. Meanwhile if you see the red chilies turn crisp you can set them aside.",
+      "Then add coriander seeds and roast till golden. Then quickly add cumin or jeera. When they smell good remove to a plate. Then add methi seeds &amp; roast. When the methi seeds begin to smell good &amp; turn deep golden, turn off the stove.",
+      "Cool all of these and make a fine powder in blender jar.",
+      "Wash rice and dal together in a bowl or directly in the cooker. Then pour 2 cups of water &amp;&nbsp;pressure cook them together on a medium flame. If cooking in a bowl cook for 3 whistles. If cooking in the cooker directly, then cook for 2 whistles.&nbsp;",
+      "When the pressure releases naturally remove the rice &amp; dal &amp; slightly mash them.",
+      "Heat ghee in a pan. Add cumin, mustard, red chilli &amp; curry leaves. When they splutter and curry leaves turn crisp, add hing.",
+      "Next add veggies and saute for 2 to 3 minutes. Saute tomatoes along with red chilli powder, turmeric for 3 minutes.",
+      "Pour 1 cup water and cook the vegetables until soft."
+    ],
+    "cook": [
+      "Take some hot water from the pan to a bowl and soak tamarind in it.",
+      "Mash the soaked tamarind when it softens and remove the pulp. You can also filter the tamarind water.",
+      "Check if the vegetables are cooked especially the drumstick.&nbsp;When the veggies are almost cooked, pour this tamarind water, salt and sambar powder to the boiling veggies.&nbsp;",
+      "Cook until it begins to smell good for about 3 to 4 minutes. Next add the mashed rice and dal.",
+      "Stir well to blend the rice &amp; dal in cooked veggies. Check the salt and spice. Adjust salt, sambar powder and tamarind as needed.",
+      "If needed add more water to bring to consistency. When it begins to bubble turn off the stove.",
+      "Serve sambar rice hot with papad or pickle.",
+      "If you prefer you can also do a additional tempering by heating another tbsp of ghee in a small tadka pan. Add a pinch of mustard, 1 broken chilli &amp; curry leaves. When the leaves turn crisp, add hing &amp; pour this to the sambar rice."
+    ]
+  },
+  "nutrition": {
+    "calories_kcal": 1554.85,
+    "carbohydrates_g": 238.05,
+    "protein_g": 55.22,
+    "fat_g": 47.78,
+    "fiber_g": 31.02,
+    "sodium_mg": 1576.27,
+    "note": "Values are estimated via Nutritionix or similar API"
+  }
+}

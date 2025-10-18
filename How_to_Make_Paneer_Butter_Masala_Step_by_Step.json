@@ -1,0 +1,400 @@
+{
+  "meta": {
+    "title": "How to Make Paneer Butter Masala, Step by Step",
+    "source_url": "https://www.cookwithmanali.com/paneer-butter-masala-recipe/",
+    "description": "This creamy Restaurant Style Paneer Butter Masala is rich, creamy and has pieces of paneer tossed in a tomato and cashew based curry. Goes so well with naan or rice!",
+    "cuisine_type": [
+      "Indian"
+    ],
+    "course_type": [
+      "Main Course"
+    ],
+    "meal_type": "Unknown",
+    "serving_count": [
+      "4"
+    ],
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "youtube_link": null,
+    "timestamp": "2025-10-18 03:05:12"
+  },
+  "ingredients": [
+    {
+      "ingredient_name": "oil ( 10 ml , divided, I used avocado oil, use any flavorless oil)",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "teaspoons"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 5.0,
+        "grocery_qty_needed": 0.2,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "leaf",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "bay"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "inch cinnamon stick",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "-4 whole cloves",
+      "recipe_quantity": {
+        "value": 3,
+        "unit": "piece"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 3.0,
+        "grocery_qty_needed": 0.333,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "-7 large garlic cloves ( 25 grams , roughly chopped)",
+      "recipe_quantity": {
+        "value": 6,
+        "unit": "piece"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 1.5,
+        "grocery_qty_needed": 0.667,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "&amp; ½ inch  ginger ( 15 grams , roughly chopped)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "piece"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "white onion ( 180 grams , roughly chopped)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "large"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "-4 medium tomatoes ( 460 grams , roughly chopped)",
+      "recipe_quantity": {
+        "value": 3,
+        "unit": "piece"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 3.0,
+        "grocery_qty_needed": 0.333,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "-15  whole cashews (raw)",
+      "recipe_quantity": {
+        "value": 10,
+        "unit": "piece"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 0.9,
+        "grocery_qty_needed": 1.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "water ( 8 oz )",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 4.17,
+        "grocery_qty_needed": 0.24,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "unsalted butter",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "tablespoons"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 5.0,
+        "grocery_qty_needed": 0.2,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "teaspoon red chili powder",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "teaspoon kashmiri red chili powder",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "teaspoon garam masala (+  1/4 teaspoon , if needed)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "teaspoon cardamom powder",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "¼"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "sugar",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "teaspoon"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Sugar",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 365
+      },
+      "note": ""
+    },
+    {
+      "ingredient_name": "teaspoon salt (or to taste)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "¾"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "-1 tablespoon tomato paste (optional)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "-4 tablespoons cream ( 45-60 ml )",
+      "recipe_quantity": {
+        "value": 3,
+        "unit": "piece"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 3.0,
+        "grocery_qty_needed": 0.333,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "paneer (cut into cubes)",
+      "recipe_quantity": {
+        "value": 250,
+        "unit": "grams"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 0.04,
+        "grocery_qty_needed": 27.778,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "crushed kasuri methi (dried fenugreek leaves)",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "teaspoons"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 4.5,
+        "grocery_qty_needed": 0.222,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "cilantro (to garnish)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "chopped"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    }
+  ],
+  "steps": {
+    "prep": [
+      "Heat 1 teaspoon oil in a pan on medium heat. Once the oil is hot, add 1 bay leaf, ½-inch cinnamon stick, 3-4 cloves and sauté for a few seconds.",
+      "Then add 6-7 garlic cloves (roughly chopped), 1 &amp; ½ inch ginger (roughly chopped) and 1 large white onion (roughly chopped) and sauté for 2 to 3 minutes until the onion is translucent.",
+      "Add 3-4 medium tomatoes (roughly chopped), and 10-15 raw cashews and mix. Then add 1 cup water. Cover the pan with a lid and cook on medium heat for 15 minutes.",
+      "After 15 minutes, remove the pan from heat. Remove the bay leaf, cinnamon stick and cloves from the pot. Then let the mixture cool down a bit and then transfer to a blender. It’s important to let it cool down a bit else it will all blow up from the mixer. Grind the masala to a smooth paste and set aside.",
+      "To the same pan now add 2 tablespoons butter along with remaining 1 teaspoon oil on medium heat. "
+    ],
+    "cook": [
+      "Once the butter melts, add ½ teaspoon red chili powder and ½ teaspoon Kashmiri red chili powder and fry for a few seconds. This will give the curry a nice orange-red color.",
+      "Then add the ground paste back into the pan along with ½ teaspoon garam masala (start with ½ teaspoon and add the remaining ¼ teaspoon at the end only if you feel like the curry needs that extra bit of garam masala after taste testing), ¼ teaspoon cardamom powder, 1 teaspoon sugar, ¾ teaspoon salt and ½-1 tablespoon tomato paste (if using). Mix well and cook for 1-2 minutes.",
+      "Then add 3-4 tablespoons heavy cream and mix.",
+      "Add in 250 grams of paneer (cut into cubes) and cook for 2 to 3 minutes on medium heat. Finally add 2 teaspoons kasuri methi (crushed). ",
+      "Garnish paneer butter masala with cilantro if you like and serve hot with naan or rice!"
+    ]
+  },
+  "nutrition": {
+    "calories_kcal": 1726.25,
+    "carbohydrates_g": 77.58,
+    "protein_g": 61.44,
+    "fat_g": 136.17,
+    "fiber_g": 13.65,
+    "sodium_mg": 3771.97,
+    "note": "Values are estimated via Nutritionix or similar API"
+  }
+}

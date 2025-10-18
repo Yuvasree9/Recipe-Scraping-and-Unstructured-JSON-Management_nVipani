@@ -1,0 +1,426 @@
+{
+  "meta": {
+    "title": "Sambar sadam recipe",
+    "source_url": "https://rakskitchen.net/sambar-sadam-recipe-south-indian-sambar-rice/",
+    "description": "Sambar sadam recipe with full video, stepwise pictures. Tamil nadu style sambar sadam, an one pot meal with mixed vegetables, small onions.",
+    "cuisine_type": [
+      "Indian"
+    ],
+    "course_type": [
+      "Main Course"
+    ],
+    "meal_type": "Unknown",
+    "serving_count": [
+      "3"
+    ],
+    "prep_time": "PT15M",
+    "cook_time": "PT25M",
+    "youtube_link": "https://www.youtube.com/embed/8Q7E3_2vztY?feature=oembed",
+    "timestamp": "2025-10-18 02:58:30"
+  },
+  "ingredients": [
+    {
+      "ingredient_name": "Rice",
+      "recipe_quantity": {
+        "value": 0.5,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 16.67,
+        "grocery_qty_needed": 0.06,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "Toor dal",
+      "recipe_quantity": {
+        "value": 0.3333333333333333,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 18.75,
+        "grocery_qty_needed": 0.053,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Tamarind (packed)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 300.0,
+        "grocery_qty_needed": 0.003,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "veggies As needed",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "mixed"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Shallots/small onion (peeled)",
+      "recipe_quantity": {
+        "value": 0.5,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 12.5,
+        "grocery_qty_needed": 0.08,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "chillies",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "green"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 4.5,
+        "grocery_qty_needed": 0.222,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Unknown Ingredient",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tomato"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Sambar powder (ready made)",
+      "recipe_quantity": {
+        "value": 0.5,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 800.0,
+        "grocery_qty_needed": 0.001,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "Turmeric",
+      "recipe_quantity": {
+        "value": 0.25,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 1200.0,
+        "grocery_qty_needed": 0.001,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "generous pinch Asafoetida",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "a"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Curry leaves",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "sprig"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Coriander leaves (chopped)",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 50.0,
+        "grocery_qty_needed": 0.02,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Jaggery",
+      "recipe_quantity": {
+        "value": 0.5,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 600.0,
+        "grocery_qty_needed": 0.002,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Unknown Ingredient",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "salt"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "ghee",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 300.0,
+        "grocery_qty_needed": 0.003,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "chillies (long variety)",
+      "recipe_quantity": {
+        "value": 4,
+        "unit": "red"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 2.25,
+        "grocery_qty_needed": 0.444,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Channa dal",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 100.0,
+        "grocery_qty_needed": 0.01,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Coriander seeds",
+      "recipe_quantity": {
+        "value": 1.5,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 200.0,
+        "grocery_qty_needed": 0.005,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Fenugreek seeds",
+      "recipe_quantity": {
+        "value": 0.125,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 2400.0,
+        "grocery_qty_needed": 0.0,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Coconut (grated)",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 50.0,
+        "grocery_qty_needed": 0.02,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Oil",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 66.67,
+        "grocery_qty_needed": 0.015,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "Mustard",
+      "recipe_quantity": {
+        "value": 0.5,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 600.0,
+        "grocery_qty_needed": 0.002,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Cumin seeds",
+      "recipe_quantity": {
+        "value": 0.5,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 600.0,
+        "grocery_qty_needed": 0.002,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Asafoetida",
+      "recipe_quantity": {
+        "value": 0.125,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 2400.0,
+        "grocery_qty_needed": 0.0,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    }
+  ],
+  "steps": {
+    "prep": [
+      "Cook rice and dal, extract tamarind juice and keep aside. I cook rice and dal separately as I do not like rice get mashed too much(which will happen if we cook together rice and dal). So If you want you can cook both together too.",
+      "Heat kadai and roast to golden brown,the ingredients under ‘To roast and grind table’ with a tsp of ghee/oil except coconut. Roast coconut separately."
+    ],
+    "cook": [
+      "Cool down and grind to coarse powder or paste with little water and keep a side.",
+      "Heat kadai and temper with the items given under ‘to temper’ table. Add curry leaves followed by onion,slit green chillies and fry till the onions start to turn golden.Add the tomatoes and fry till soft.Add the tamarind extract,bring to boil. Add the turmeric,sambar powder,asafoetida and the chopped veggies.When the vegetables get cooked,add jaggery,the ground sambar powder and bring to boil.Add the sambar powder gradually while stirring,as there are chances of forming lumps.Add this to the cooked rice.I used a pot shaped pressure cooker for making sambar rice. Add the mashed dal and mix well with out mashing the veggies. Add hot water if its too thick. I just mix under low flame for 2 minutes.Let the sambar rice be in a loose consistency. After cooled down, it tends to get thick,so let the consistency be according to that.Top with 2 tsp ghee and coriander leaves."
+    ]
+  },
+  "nutrition": {
+    "calories_kcal": 660.3,
+    "carbohydrates_g": 99.68,
+    "protein_g": 19.13,
+    "fat_g": 25.48,
+    "fiber_g": 20.9,
+    "sodium_mg": 889.28,
+    "note": "Values are estimated via Nutritionix or similar API"
+  }
+}

@@ -1,0 +1,470 @@
+{
+  "meta": {
+    "title": "Paneer Butter Masala Recipe - Restaurant Style",
+    "source_url": "https://hebbarskitchen.com/paneer-butter-masala-recipe/",
+    "description": "Easy Paneer Butter Masala Recipe | Butter Paneer Recipe | Cheese Butter Masala",
+    "cuisine_type": [
+      "punjabi"
+    ],
+    "course_type": [
+      "curries"
+    ],
+    "meal_type": "Unknown",
+    "serving_count": [
+      "5",
+      "5 Servings"
+    ],
+    "prep_time": "PT10M",
+    "cook_time": "PT40M",
+    "youtube_link": "https://www.youtube.com/embed/avAeFUAmF9Q?si=Y0HjgwMQt3RncK6V",
+    "timestamp": "2025-10-18 03:05:12"
+  },
+  "ingredients": [
+    {
+      "ingredient_name": "oil",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 33.33,
+        "grocery_qty_needed": 0.03,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "butter",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Butter",
+        "grocery_unit": "pack",
+        "conversion_ratio": 109.77,
+        "grocery_qty_needed": 0.009,
+        "MOQ": "1 pack",
+        "shelf_life_days": 30
+      },
+      "note": ""
+    },
+    {
+      "ingredient_name": "cumin",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 300.0,
+        "grocery_qty_needed": 0.003,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "cinnamon",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "inch"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Unknown Ingredient",
+      "recipe_quantity": {
+        "value": 4,
+        "unit": "cloves"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 2.25,
+        "grocery_qty_needed": 0.444,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "black cardamom",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "pod"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "leaf",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "bay"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "(sliced)",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "onion"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 4.5,
+        "grocery_qty_needed": 0.222,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "garlic",
+      "recipe_quantity": {
+        "value": 5,
+        "unit": "cloves"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Garlic Bulb",
+        "grocery_unit": "kg",
+        "conversion_ratio": 47.5,
+        "grocery_qty_needed": 0.021,
+        "MOQ": "0.5 kg",
+        "shelf_life_days": 7
+      },
+      "note": ""
+    },
+    {
+      "ingredient_name": "ginger",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "inch"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "(sliced)",
+      "recipe_quantity": {
+        "value": 3,
+        "unit": "tomato"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 3.0,
+        "grocery_qty_needed": 0.333,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "cashew",
+      "recipe_quantity": {
+        "value": 3,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 33.33,
+        "grocery_qty_needed": 0.03,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "water",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 4.17,
+        "grocery_qty_needed": 0.24,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "oil",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 100.0,
+        "grocery_qty_needed": 0.01,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "butter",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Butter",
+        "grocery_unit": "pack",
+        "conversion_ratio": 36.59,
+        "grocery_qty_needed": 0.027,
+        "MOQ": "1 pack",
+        "shelf_life_days": 30
+      },
+      "note": ""
+    },
+    {
+      "ingredient_name": "tsp turmeric",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "chilli powder",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 400.0,
+        "grocery_qty_needed": 0.003,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "tsp cumin powder",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "tsp coriander powder",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "tsp garam masala",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "salt",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 400.0,
+        "grocery_qty_needed": 0.003,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "sugar",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Sugar",
+        "grocery_unit": "kg",
+        "conversion_ratio": 235.29,
+        "grocery_qty_needed": 0.004,
+        "MOQ": "1 kg",
+        "shelf_life_days": 365
+      },
+      "note": ""
+    },
+    {
+      "ingredient_name": "cream",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 50.0,
+        "grocery_qty_needed": 0.02,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "paneer",
+      "recipe_quantity": {
+        "value": 20,
+        "unit": "cubes"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 0.45,
+        "grocery_qty_needed": 2.222,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "kasuri methi (crushed)",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 50.0,
+        "grocery_qty_needed": 0.02,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "coriander (finely chopped)",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 50.0,
+        "grocery_qty_needed": 0.02,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    }
+  ],
+  "steps": {
+    "prep": [
+      "Firstly, in a wok, heat 2 tbsp oil, 1 tsp butter, and saute spices. I have added 1 tsp of cumin, 1 inch of cinnamon, 4 cloves, 1 pod of black cardamom, and 1 bay leaf.",
+      "Once the spices have turned aromatic, add 2 onions, 5 cloves of garlic, and 1 inch of ginger, and sauté until the onions soften.",
+      "Also add 3 tomatoes, 3 tbsp cashew and saute for a minute.",
+      "Now add 1 cup water, cover and boil for 5 to 10 minutes.",
+      "Once the tomatoes are cooked well, discard the bay leaf and allow the mixture to cool completely.",
+      "Now grind to a smooth paste. Filter out to get a silky smooth texture. Keep aside.",
+      "In a wok ,heat 2 tsp oil and 1 tbsp butter."
+    ],
+    "cook": [
+      "Once the oil is heated, add ½ tsp turmeric, 1 tsp chilli powder, ½ tsp cumin powder, ½ tsp coriander powder and ½ tsp garam masala.",
+      "Sauté till the spices turn aromatic.",
+      "Add in the prepared tomato onion base and cook well.",
+      "Keep cooking and boil for 5 minutes, until the mixture is well-cooked.",
+      "Now add 1 tsp salt, 1 tsp sugar, 2 tbsp cream and mix well.",
+      "Add 20 cubes paneer and simmer for 5 minutes till the flavours are absorbed.",
+      "Add 2 tbsp kasuri methi and 2 tbsp coriander. Mix well.",
+      "Finally, enjoy Paneer Butter Masala Recipe with roti."
+    ]
+  },
+  "nutrition": {
+    "calories_kcal": 8275.53,
+    "carbohydrates_g": 140.54,
+    "protein_g": 456.06,
+    "fat_g": 660.58,
+    "fiber_g": 15.36,
+    "sodium_mg": 21096.9,
+    "note": "Values are estimated via Nutritionix or similar API"
+  }
+}

@@ -1,0 +1,491 @@
+{
+  "meta": {
+    "title": "chicken biryani - indian restaurant style",
+    "source_url": "https://glebekitchen.com/chicken-biryani-indian-restaurant-style/",
+    "description": "Chicken biryani done restaurant style is fast enough to serve any day of the week.",
+    "cuisine_type": [
+      "Indian"
+    ],
+    "course_type": [
+      "Main"
+    ],
+    "meal_type": "Unknown",
+    "serving_count": [
+      "4"
+    ],
+    "prep_time": "PT10M",
+    "cook_time": "PT45M",
+    "youtube_link": null,
+    "timestamp": "2025-10-18 02:01:36"
+  },
+  "ingredients": [
+    {
+      "ingredient_name": "/2 cups basmati rice",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "1"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "/4 cups water",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "1"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "chicken stock  (- low or no sodium. Bouillon cubes are not chicken stock.)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 6.25,
+        "grocery_qty_needed": 0.16,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "cardamom pods",
+      "recipe_quantity": {
+        "value": 3,
+        "unit": "green"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 3.0,
+        "grocery_qty_needed": 0.333,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Unknown Ingredient",
+      "recipe_quantity": {
+        "value": 5,
+        "unit": "cloves"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 1.8,
+        "grocery_qty_needed": 0.556,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "cinnamon bark (also known as cassia)",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "inch"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 4.5,
+        "grocery_qty_needed": 0.222,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "kosher salt",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 400.0,
+        "grocery_qty_needed": 0.003,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "garam masala",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 300.0,
+        "grocery_qty_needed": 0.003,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "turmeric",
+      "recipe_quantity": {
+        "value": 0.5,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 600.0,
+        "grocery_qty_needed": 0.002,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "cumin powder",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 200.0,
+        "grocery_qty_needed": 0.005,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "coriander powder",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 400.0,
+        "grocery_qty_needed": 0.003,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "kasoor methi (also known as dried fenugreek leaves)",
+      "recipe_quantity": {
+        "value": 0.5,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 600.0,
+        "grocery_qty_needed": 0.002,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "kasmiri chili powder",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 400.0,
+        "grocery_qty_needed": 0.003,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "amchoor powder (dried mango powder)",
+      "recipe_quantity": {
+        "value": 0.5,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 800.0,
+        "grocery_qty_needed": 0.001,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "neutral oil (I use canola)",
+      "recipe_quantity": {
+        "value": 5,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 13.33,
+        "grocery_qty_needed": 0.075,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "chicken thighs (boneless, skinless and cut into three or four pieces per thigh)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "lb"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 1.98,
+        "grocery_qty_needed": 0.504,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "salt",
+      "recipe_quantity": {
+        "value": 0.5,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 800.0,
+        "grocery_qty_needed": 0.001,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "shallots (thinly sliced)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 6.25,
+        "grocery_qty_needed": 0.16,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "cumin seed",
+      "recipe_quantity": {
+        "value": 0.5,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 600.0,
+        "grocery_qty_needed": 0.002,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "garlic ginger paste",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 100.0,
+        "grocery_qty_needed": 0.01,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "biryani spice mix",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "the"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "tomato paste (diluted with 4 tbsp water)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 66.67,
+        "grocery_qty_needed": 0.015,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "seasoned rice (from above)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "the"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "cooked chicken (along with all the tasty sauce)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "the"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "fried shallot (plus more to garnish (see notes if you want to make them yourself))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 100.0,
+        "grocery_qty_needed": 0.01,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "few strands of saffron (diluted in a couple tablespoons of warm water)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "a"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "and fried shallots to garnish",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "cilantro"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    }
+  ],
+  "steps": {
+    "prep": [
+      "Before you get started set your oven on to 350F.",
+      "Want perfect rice every time? Get a rice cooker. I don&#39;t like one trick kitchen appliances as a rule but I love my rice cooker. Something to think about...",
+      "If you do have a rice cooker use it. Just combine the rice ingredients and proceed as you normally do. While the rice is cooking cook the chicken.",
+      "If you don&#39;t have a rice cooker this is an easy way to make basmati. You can pre-soak, rinse or whatever you want but this works pretty well as written. Blasphemy. I know. But it works. I did this for years until I got a decent rice cooker.",
+      "Pick a saucepan with a fairly tight fitting lid that&#39;s not way too big. Combine the water, chicken stock, green cardamom, cloves, cinnamon stick, salt and the rice  in your chosen saucepan.",
+      "Bring to a simmer over medium heat uncovered. Reduce heat to low and cover. Simmer for 20 minutes. Set a timer. Seriously. While this is going on make the chicken (see below).",
+      "When the timer goes off after 20 minutes, turn off the heat and let stand an additional 5 minutes. Uncover. Remove the whole spices. They should be just sitting on top. Fluff gently and replace the cover to keep the rice warm.",
+      "Make the biryani spice mix. Just combine all the ingredients in a small bowl. Dilute the tomato paste. Slice your shallots. Have everything at hand.",
+      "Heat the oil in a saute pan over medium heat. Add the shallots and cook until they start to brown. They will brown some more in the next couple steps.",
+      "Add the cumin seed. Cook for about 30 seconds."
+    ],
+    "cook": [
+      "Add the garlic ginger paste. Stir it into the oil and cook until it stops sputtering. Watch it. Don&#x27;t let it burn.",
+      "Turn the heat to medium low. Add the spice mix and the 1/2 tsp salt. Stir to thoroughly combine the oil in the pan with the spices. Cook for about 30 seconds. Really watch it. There should be enough oil in the pan. If the spices start to stick turn down the heat and add a bit more oil.",
+      "Add the diluted tomato paste, stir and turn the heat up to medium.  Cook about a minute.",
+      "Add the chicken and cook, stirring regularly until the chicken reaches an internal temperature of 150F. You want it mostly cooked. It will finish cooking in the assembled biryani.",
+      "Use a pot that&#x27;s about 9-10 inches in diameter. Make sure it has a pretty tight fitting lid.",
+      "Put a little more than half the rice in the pot and spread it out in an even layer. Top with the chicken mixture. Add the rest of the rice. Top with the fried shallots/onions (see note if you are making them yourself). Drizzle the saffron water mixture overtop.",
+      "Cover the pot with tinfoil and then the lid. The tinfoil adds a little extra seal. It&#x27;s not quite as good as the dough seal in a traditional biryani but it will work well enough.",
+      "Transfer the chicken biryani to the oven and bake for 15 minutes.",
+      "After the biryani has baked for 15 minutes remove it from the oven and place it on the stove. Let stand for 10 minutes.",
+      "To serve transfer the contents to a platter. It will get a bit messy. That&#39;s OK. The mix will look good, especially once you garnish it. It should look just like the pictures because that&#39;s exactly what I did.",
+      "Garnish with more fried shallots and a bit of cilantro. Dig in and enjoy."
+    ]
+  },
+  "nutrition": {
+    "calories_kcal": 3243.65,
+    "carbohydrates_g": 267.12,
+    "protein_g": 177.76,
+    "fat_g": 171.45,
+    "fiber_g": 25.43,
+    "sodium_mg": 4976.39,
+    "note": "Values are estimated via Nutritionix or similar API"
+  }
+}

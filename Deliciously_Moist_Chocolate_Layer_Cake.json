@@ -1,0 +1,347 @@
+{
+  "meta": {
+    "title": "Deliciously Moist Chocolate Layer Cake",
+    "source_url": "https://sallysbakingaddiction.com/triple-chocolate-layer-cake/",
+    "description": "This is my favorite homemade chocolate cake recipe. With a super moist crumb and fudgy, yet light texture, this chocolate cake recipe will be your favorite too. Top with chocolate buttercream and chocolate chips for 3x the chocolate flavor. You can also prepare this chocolate layer cake as a sheet cake. See recipe Note.",
+    "cuisine_type": "American",
+    "course_type": "Dessert",
+    "meal_type": "Unknown",
+    "serving_count": [
+      "12",
+      "serves 12-16"
+    ],
+    "prep_time": "PT30M",
+    "cook_time": "PT25M",
+    "youtube_link": null,
+    "timestamp": "2025-10-18 02:49:49"
+  },
+  "ingredients": [
+    {
+      "ingredient_name": "3/4 cups (219g) all-purpose flour (spooned &amp; leveled)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "and"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "(62g) unsweetened natural cocoa powder",
+      "recipe_quantity": {
+        "value": 0.75,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 11.11,
+        "grocery_qty_needed": 0.09,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "3/4 cups (350g) granulated sugar",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "and"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "baking soda",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "teaspoons"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 4.5,
+        "grocery_qty_needed": 0.222,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "baking powder",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "teaspoon"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "salt",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "teaspoon"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "espresso powder (optional)",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "teaspoons"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 5.0,
+        "grocery_qty_needed": 0.2,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "(120ml) vegetable oil (or canola oil or melted coconut oil)",
+      "recipe_quantity": {
+        "value": 0.5,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 8.33,
+        "grocery_qty_needed": 0.12,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "eggs, at room temperature",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "large"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 4.5,
+        "grocery_qty_needed": 0.222,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "pure vanilla extract",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "teaspoons"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 4.5,
+        "grocery_qty_needed": 0.222,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "(240ml) buttermilk, at room temperature",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 4.17,
+        "grocery_qty_needed": 0.24,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "(240ml) freshly brewed strong hot coffee (regular or decaf)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 6.25,
+        "grocery_qty_needed": 0.16,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "1/4 cups (282g) unsalted butter, softened to room temperature",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "and"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "1/2 cups (420g) confectioners&#8217; sugar",
+      "recipe_quantity": {
+        "value": 3,
+        "unit": "and"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 3.33,
+        "grocery_qty_needed": 0.3,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "(62g) unsweetened cocoa powder (natural or dutch process)",
+      "recipe_quantity": {
+        "value": 0.75,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 11.11,
+        "grocery_qty_needed": 0.09,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "-5 Tablespoons (45-75ml) heavy cream (or half-and-half or milk), at room temperature",
+      "recipe_quantity": {
+        "value": 3,
+        "unit": "piece"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 3.33,
+        "grocery_qty_needed": 0.3,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "salt",
+      "recipe_quantity": {
+        "value": 0.25,
+        "unit": "teaspoon"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 40.0,
+        "grocery_qty_needed": 0.025,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "pure vanilla extract",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "teaspoon"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "for decoration: semi-sweet chocolate chips",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "optional"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    }
+  ],
+  "steps": {
+    "prep": [
+      "Preheat oven to 350°F (177°C). Grease two 9-inch cake pans, line with parchment paper rounds, then grease the parchment paper. Parchment paper helps the cakes seamlessly release from the pans. (If it&#8217;s helpful, see this parchment paper rounds for cakes video &amp; post.)",
+      "Whisk the flour, cocoa powder, sugar, baking soda, baking powder, salt, and espresso powder (if using) together in a large bowl. Set aside. Using a handheld or stand mixer fitted with a whisk attachment (or you can use a whisk) mix the oil, eggs, and vanilla together on medium-high speed until combined. Add the buttermilk and mix until combined. Pour the wet ingredients into the dry ingredients, add the hot water/coffee, and whisk or beat on low speed until the batter is completely combined. Batter is thin.",
+      "Divide batter evenly between pans. Bake for 23-26 minutes or until a toothpick inserted in the center comes out clean. Baking times vary, so keep an eye on yours. The cakes are done when a toothpick inserted in the center comes out clean. (Note: Even if they&#8217;re completely done, the cooled cakes may *slightly* sink in the center. Cocoa powder is simply not as structurally strong as all-purpose flour and can&#8217;t hold up to all the moisture necessary to make a moist tasting chocolate cake. It&#8217;s normal!)",
+      "Remove the cakes from the oven and set on a wire rack. Allow to cool completely in the pan."
+    ],
+    "cook": [
+      "With a handheld or stand mixer fitted with a paddle attachment, beat the butter on medium speed until creamy—about 2 minutes. Add confectioners’ sugar, cocoa powder, 3 Tablespoons heavy cream, salt, and vanilla extract. Beat on low speed for 30 seconds, then increase to high speed and beat for 1 full minute. Do not over-whip. Add 1/4 cup more confectioners’ sugar or cocoa powder if frosting is too thin or 1-2 more Tablespoons of cream if frosting is too thick. (I usually add 1 more.) Taste. Add another pinch of salt if desired.",
+      "If cooled cakes are domed on top, use a large serrated knife to slice a thin layer off the tops to create a flat surface. This is called &#8220;leveling&#8221; the cakes. Discard or crumble over finished cake. Place 1 cake layer on your cake stand or serving plate. Evenly cover the top with frosting. Top with 2nd layer and spread remaining frosting all over the top and sides. I always use an icing spatula and bench scraper for the frosting. Garnish with chocolate chips, if desired.",
+      "Refrigerate uncovered cake for at least 30-60 minutes before slicing to help set the shape. After that, you can serve the cake or continue refrigerating for up to 4–6 hours before serving. Cake can be served at room temperature or chilled.",
+      "Cover leftover cake tightly and store in the refrigerator for 5 days. I like using a cake carrier for storing and transporting."
+    ]
+  },
+  "nutrition": {
+    "calories_kcal": 5295.99,
+    "carbohydrates_g": 694.66,
+    "protein_g": 66.14,
+    "fat_g": 260.56,
+    "fiber_g": 41.43,
+    "sodium_mg": 6551.89,
+    "note": "Values are estimated via Nutritionix or similar API"
+  }
+}

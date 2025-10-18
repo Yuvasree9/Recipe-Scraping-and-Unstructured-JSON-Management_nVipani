@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "title": "Chocolate Shake Recipe",
+    "source_url": "https://www.indianhealthyrecipes.com/chocolate-shake-recipe/",
+    "description": "Make thick &amp; creamy chocolate milkshake at home. I share 2 recipes in this post, with &amp; without ice cream. If ice cream doesn&#039;t fit your diet, use the second recipe. It still tastes good &amp; delicious.",
+    "cuisine_type": [
+      "world"
+    ],
+    "course_type": [
+      "Beverage"
+    ],
+    "meal_type": "Unknown",
+    "serving_count": [
+      "1"
+    ],
+    "prep_time": "PT5M",
+    "cook_time": "N/A",
+    "youtube_link": null,
+    "timestamp": "2025-10-18 01:24:14"
+  },
+  "ingredients": [
+    {
+      "ingredient_name": "cup chilled milk",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "¼"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "vanilla ice cream (or chocolate ice cream (7 to 8 oz/ 225 grams))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 6.25,
+        "grocery_qty_needed": 0.16,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "tablespoons chocolate sauce/ syrup ((or cocoa powder, refer notes))",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 5.0,
+        "grocery_qty_needed": 0.2,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "cream for garnish ((optional))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "whipped"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "chilled full fat milk",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 4.17,
+        "grocery_qty_needed": 0.24,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "6  milk ice cubes (or milk ice cubes)",
+      "recipe_quantity": {
+        "value": 5,
+        "unit": "to"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 2.0,
+        "grocery_qty_needed": 0.5,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "to 2 tablespoons sugar ((or any other sweetener))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "cocoa powder (or 2 to 3 tablespoons chocolate syrup)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tablespoon"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "chocolate shavings (or whipped cream or chocolate syrup for garnish)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tablespoon"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "teaspoon ground cinnamon ((not cassia) (optional))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    }
+  ],
+  "steps": {
+    "prep": [
+      "Pour milk to a blender jar, add ice cream and pour chocolate sauce. (If you don&#39;t have chocolate syrup make your own with cocoa, read notes below)",
+      "Blend or pulse only for 30 to 60 seconds until frothy &amp; well combined, depending on your blender. Blending too long will make your milkshake runny. A few lumps of ice cream in your shake is still okay and actually keeps your milkshake thick.",
+      "Optionally you may decorate your serving glass. Pour a tablespoon of chocolate syrup to the inner sides of your glass. Pour your chocolate milkshake."
+    ],
+    "cook": [
+      "Garnish with whipped cream and a drizzle of chocolate sauce.",
+      "Pour milk to your ice tray and set it.",
+      "Add sugar and cocoa powder or chocolate syrup to a blender jar along with milk. Blend until combined.",
+      "Add milk ice cubes, cinnamon (optional) and blend well again until frothy. Pour to serving glass and sprinkle some grated chocolate."
+    ]
+  },
+  "nutrition": {
+    "calories_kcal": 2421.3,
+    "carbohydrates_g": 337.26,
+    "protein_g": 83.5,
+    "fat_g": 86.08,
+    "fiber_g": 8.85,
+    "sodium_mg": 1301.28,
+    "note": "Values are estimated via Nutritionix or similar API"
+  }
+}

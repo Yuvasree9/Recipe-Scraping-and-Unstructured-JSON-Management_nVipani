@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "title": "Tuscan Chicken Pizza",
+    "source_url": "https://spicedblog.com/tuscan-chicken-pizza/",
+    "description": "Mix up pizza night with this Tuscan Chicken Pizza! Topped with chicken, red bell peppers and a generous amount of Italian herbs, this pizza makes for a tasty (and easy) meal!",
+    "cuisine_type": [
+      "American",
+      "Italian"
+    ],
+    "course_type": [
+      "Main Course"
+    ],
+    "meal_type": "Unknown",
+    "serving_count": [
+      "8",
+      "8 slices"
+    ],
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "youtube_link": null,
+    "timestamp": "2025-10-18 02:54:24"
+  },
+  "ingredients": [
+    {
+      "ingredient_name": ". refrigerated pizza dough",
+      "recipe_quantity": {
+        "value": 16,
+        "unit": "oz"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 1.98,
+        "grocery_qty_needed": 0.504,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "olive oil",
+      "recipe_quantity": {
+        "value": 3,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 22.22,
+        "grocery_qty_needed": 0.045,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "grated Parmesan cheese",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "tbsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 50.0,
+        "grocery_qty_needed": 0.02,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Tbsp chopped fresh Italian parsley (plus more for finishing)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "minced garlic",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Garlic Bulb",
+        "grocery_unit": "kg",
+        "conversion_ratio": 316.67,
+        "grocery_qty_needed": 0.003,
+        "MOQ": "0.5 kg",
+        "shelf_life_days": 7
+      },
+      "note": ""
+    },
+    {
+      "ingredient_name": "dried basil",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 300.0,
+        "grocery_qty_needed": 0.003,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "kosher salt",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tsp"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 400.0,
+        "grocery_qty_needed": 0.003,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "pizza sauce",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 4.17,
+        "grocery_qty_needed": 0.24,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "shredded mozzarella cheese",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 6.25,
+        "grocery_qty_needed": 0.16,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "-oz. can chicken, drained (or 2-3 boneless chicken breasts), cooked and shredded",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "13"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "bell pepper (thinly sliced)",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "red"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "cup thinly-sliced red onions",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "⅓"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    }
+  ],
+  "steps": {
+    "prep": [
+      "Preheat oven to 450°F.",
+      "Unroll pizza dough onto a rimmed baking sheet.",
+      "Using a small bowl, add olive oil, Parmesan cheese, parsley, garlic, basil and salt; stir until well combined.  Brush olive oil mixture around outer 1” edge of dough.  Using a fork, dock the center of the dough at 1” intervals to prevent it from puffing up while baking.",
+      "Bake crust for 8 minutes; remove pan from oven."
+    ],
+    "cook": [
+      "Meanwhile, rinse the canned chicken and saute in a dry skillet for 7-8 minutes, stirring occasionally.  (Note: This step removes excess water from the chicken while also adding more flavor.)",
+      "Spread sauce evenly on top of dough, leaving outer 1” edge to create a crust.",
+      "Spread mozzarella, shredded chicken, sliced bell pepper and sliced red onions evenly on top.",
+      "Bake for 8-10 more minutes.",
+      "Remove from oven and garnish with more chopped parsley before slicing and serving."
+    ]
+  },
+  "nutrition": {
+    "calories_kcal": 3484.87,
+    "carbohydrates_g": 255.98,
+    "protein_g": 272.93,
+    "fat_g": 145.63,
+    "fiber_g": 15.99,
+    "sodium_mg": 6650.3,
+    "note": "Values are estimated via Nutritionix or similar API"
+  }
+}

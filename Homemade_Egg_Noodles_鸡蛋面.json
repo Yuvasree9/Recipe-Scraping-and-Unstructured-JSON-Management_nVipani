@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Homemade Egg Noodles (鸡蛋面)",
+    "source_url": "https://omnivorescookbook.com/homemade-egg-noodles/",
+    "description": "Learn how to make Chinese egg noodles with only four ingredients without any special equipment. The homemade egg noodles are chewy, springy, and perfect for making noodle stir fry and hearty noodle soup, or simply served with a sauce. {Vegetarian}",
+    "cuisine_type": [
+      "Chinese"
+    ],
+    "course_type": [
+      "Main"
+    ],
+    "meal_type": "Unknown",
+    "serving_count": [
+      "4",
+      "4 to 6 servings"
+    ],
+    "prep_time": "PT60M",
+    "cook_time": "PT5M",
+    "youtube_link": null,
+    "timestamp": "2025-10-18 03:09:00"
+  },
+  "ingredients": [
+    {
+      "ingredient_name": "(2 cups)  all-purpose flour ((*Footnote 1))",
+      "recipe_quantity": {
+        "value": 300,
+        "unit": "g"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 3.33,
+        "grocery_qty_needed": 0.3,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "&amp; Gerry’s large eggs",
+      "recipe_quantity": {
+        "value": 3,
+        "unit": "pete"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 3.0,
+        "grocery_qty_needed": 0.333,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "(30 ml) cold tap water",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "tablespoons"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 5.0,
+        "grocery_qty_needed": 0.2,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "salt",
+      "recipe_quantity": {
+        "value": 0.25,
+        "unit": "teaspoon"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 40.0,
+        "grocery_qty_needed": 0.025,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "((for coating the noodles))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "cornstarch"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    }
+  ],
+  "steps": {
+    "prep": [
+      "Add the flour and salt into a large mixing bowl. Mix well and make a well in the center. Add the eggs and the cold water into the well. Stir to mix everything together until shaggy dough flakes form. There should be little dry flour in the bowl and the dough flakes should be semi-soft without being sticky. If there is too much dry flour in the bowl, add 1 more tablespoon of cold water and stir to mix again.",
+      "Press the dough flakes together with your hands until the dough is mostly formed. The dough can be slightly sticky to the hands, but still quite firm.",
+      "Transfer the dough onto a clean work surface. Knead with hands until the water is evenly absorbed and a springy dough forms, 10 to 15 minutes. If the dough sticks to the work surface too much, dust the surface with all-purpose flour and keep kneading. If the dough is very dry and hard to work with, wet the surface of the dough with some water and knead until the water is fully mixed in.",
+      "Place the dough into the mixing bowl and cover with plastic wrap. It’s OK if the surface of the dough is not super smooth. Let rest for 30 minutes.",
+      "Once the dough is rested, gently knead the dough again for 1 to 2 minutes so it’s very smooth. Let the dough rest, covered, for another 10 to 20 minutes to relax it."
+    ],
+    "cook": [
+      "Divide the dough into halves. Cover up the half you’re not working with.",
+      "Dust the work surface with cornstarch and place one piece of dough on top. Press and roll the dough into a small rectangle shape. If the dough springs back and is very hard to knead, you can cover it up and let it rest another 10 to 20 minutes to relax it.",
+      "Then roll the dough with a rolling pin into a very large thin sheet, about 1/8” (3 mm) thick, 18” long and 10” wide.Dust the top of the dough with cornstarch again. Fold the dough up along the long side, twice, into a long roll. Then slice the dough into noodles depending on the width you prefer, 1/8” for thin noodles, 1/4” wide for medium noodles, or 3/4” wide for wide noodles. Use your hands to gently pull each noodle so the length increases by 1/3. Set aside and work on the rest of the noodles in the same way.",
+      "Lightly dust all the noodles with cornstarch and fluff the noodles to coat evenly.",
+      "Now you can boil the noodles and serve them directly. If not used immediately, store the noodles in a sealed bag or container in the fridge for up to a day, or in the freezer for up to 3 months. You don’t need to thaw the noodles before boiling.",
+      "To boil the noodles, bring a large pot of water to a boil. Boil the noodles for 2 minutes or so, or until fully cooked through (the cooking time depends on the thickness of the noodles you make)."
+    ]
+  },
+  "nutrition": {
+    "calories_kcal": 1193.98,
+    "carbohydrates_g": 236.59,
+    "protein_g": 37.29,
+    "fat_g": 7.7,
+    "fiber_g": 8.17,
+    "sodium_mg": 607.03,
+    "note": "Values are estimated via Nutritionix or similar API"
+  }
+}

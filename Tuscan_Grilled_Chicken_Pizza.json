@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "title": "Tuscan Grilled Chicken Pizza",
+    "source_url": "https://sizzleandsalt.com/tuscan-grilled-chicken-pizza/",
+    "description": "Tuscan Grilled Chicken Pizza is a delicious alternative to the every day pizza that uses pesto instead of red sauce and has juicy grilled chicken. ",
+    "cuisine_type": "Unknown",
+    "course_type": "Unknown",
+    "meal_type": "Unknown",
+    "serving_count": 0,
+    "prep_time": "N/A",
+    "cook_time": "N/A",
+    "youtube_link": null,
+    "timestamp": "2025-10-18 02:54:24"
+  },
+  "ingredients": [
+    {
+      "ingredient_name": "pizza dough",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "batch"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Basil",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "bunch"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Parsley",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "bunch"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Pine Nuts or Sunflower Seeds, optional",
+      "recipe_quantity": {
+        "value": 0.25,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 25.0,
+        "grocery_qty_needed": 0.04,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Cloves",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "garlic"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 4.5,
+        "grocery_qty_needed": 0.222,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Olive oil",
+      "recipe_quantity": {
+        "value": 0.5,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 8.33,
+        "grocery_qty_needed": 0.12,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "each Salt &amp; Pepper",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "teaspoon"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "Mozzarella, shredded",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "cup"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 6.25,
+        "grocery_qty_needed": 0.16,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Bell Pepper, sliced",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "red"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "Breast, grilled,sliced",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "chicken"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    }
+  ],
+  "steps": {
+    "prep": [
+      "Preheat oven or grill to 450 degrees F. ",
+      "In a single serve style or regular blender, add basil, parsley, pine nuts, garlic, olive oil and a pinch of salt &amp; pepper. Blend to make the pesto. Taste and adjust."
+    ],
+    "cook": [
+      "Roll out pizza dough onto your desired pan or grill plate. ",
+      "Brush dough with pesto. Top with mozzarella, red peppers and grilled chicken. ",
+      "Bake for 10-15 minutes or until dough edges are golden and cheese is fully melted and bubbly. Let rest for a few minutes before cutting. "
+    ]
+  },
+  "nutrition": {
+    "calories_kcal": 2018.21,
+    "carbohydrates_g": 42.89,
+    "protein_g": 75.72,
+    "fat_g": 177.14,
+    "fiber_g": 8.45,
+    "sodium_mg": 4731.0,
+    "note": "Values are estimated via Nutritionix or similar API"
+  }
+}

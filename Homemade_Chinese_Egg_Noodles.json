@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "title": "Homemade Chinese Egg Noodles",
+    "source_url": "https://thewoksoflife.com/homemade-chinese-egg-noodles/",
+    "description": "These homemade Chinese egg noodles have an incredibly chewy, bouncy texture. They&#x27;re perfect for tossing in sauce, noodle soups, or stir-frying!",
+    "cuisine_type": [
+      "Chinese"
+    ],
+    "course_type": [
+      "Noodles"
+    ],
+    "meal_type": "Unknown",
+    "serving_count": [
+      "4"
+    ],
+    "prep_time": "PT15M",
+    "cook_time": "PT10M",
+    "youtube_link": null,
+    "timestamp": "2025-10-18 03:09:00"
+  },
+  "ingredients": [
+    {
+      "ingredient_name": "all purpose flour",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "cups"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 5.0,
+        "grocery_qty_needed": 0.2,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "salt",
+      "recipe_quantity": {
+        "value": 0.5,
+        "unit": "teaspoon"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 20.0,
+        "grocery_qty_needed": 0.05,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "eggs",
+      "recipe_quantity": {
+        "value": 3,
+        "unit": "large"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 3.0,
+        "grocery_qty_needed": 0.333,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "water",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "tablespoon"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    }
+  ],
+  "steps": {
+    "prep": [
+      "Combine the flour and salt in the bowl of a stand mixer. Add the eggs and water, and combine to form a shaggy dough.",
+      "Turn on the mixer fitted with the dough hook attachment, and knead for 10 minutes. If kneading by hand, knead for an additional 5 minutes (total of 15 minutes). Cover the dough and allow to rest for 30 minutes.",
+      "Divide the dough in half. Set one half aside, covered. To roll by hand, follow instructions here. To roll using a pasta roller, flatten the dough half into a thin rectangle, about ½ - ¾ inch thick (about 1-2 cm)."
+    ],
+    "cook": [
+      "With the pasta roller at the thickest setting, feed the dough through, being sure to guide it straight, so it doesn’t go crooked or get caught in the sides of the roller.",
+      "Continue to run the dough through the roller once at each setting. When you’ve gotten halfway through the settings, you may want to cut the dough in half, so that it’s not too long and difficult to manage.",
+      "When the dough is thin enough to see your hand through it, thoroughly flour both sides of the dough sheet. Then run it through your desired noodle cutting setting. Toss the noodles in additional flour to prevent them from sticking to each other. Repeat with the other half of the dough. This recipe makes four portions.",
+      "Bring a large pot of water to a boil. Add the noodles and stir immediately to make sure they don&#x27;t clump together. Cook the noodles for 60-90 seconds, and add them to your favorite sauce, noodle soup, or stir-fry!"
+    ]
+  },
+  "nutrition": {
+    "calories_kcal": 1124.5,
+    "carbohydrates_g": 191.86,
+    "protein_g": 44.67,
+    "fat_g": 16.72,
+    "fiber_g": 6.75,
+    "sodium_mg": 1276.04,
+    "note": "Values are estimated via Nutritionix or similar API"
+  }
+}

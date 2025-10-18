@@ -1,0 +1,178 @@
+{
+  "meta": {
+    "title": "Dosa Recipe",
+    "source_url": "https://holycowvegan.net/dosa-recipe/",
+    "description": "Learn step by step how to make the best south Indian dosa. My easy but authentic recipe makes the softest dosas with crispy edges.",
+    "cuisine_type": [
+      "Indian (South Indian)"
+    ],
+    "course_type": [
+      "Breakfast/Brunch/Lunch/Dinner"
+    ],
+    "meal_type": "Unknown",
+    "serving_count": [
+      "20",
+      "20 8-inch dosas (approx)"
+    ],
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "youtube_link": "https://www.youtube.com/embed/tYC4EJW7pbg?feature=oembed",
+    "timestamp": "2025-10-18 02:06:51"
+  },
+  "ingredients": [
+    {
+      "ingredient_name": "rice ((I used white basmati rice. See notes on what types of rice to use.))",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "cups"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 5.0,
+        "grocery_qty_needed": 0.2,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "cup poha ((flattened rice))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Dry",
+        "grocery_unit": "kg",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 kg",
+        "shelf_life_days": 180
+      },
+      "note": "Inferred from category 'dry'"
+    },
+    {
+      "ingredient_name": "cup urad dal ((black gram dal))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "chana dal ((Bengal gram dal))",
+      "recipe_quantity": {
+        "value": 2,
+        "unit": "tablespoons"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 4.5,
+        "grocery_qty_needed": 0.222,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "tsp fenugreek seeds ((methi seeds))",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "cups water",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "½"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    },
+    {
+      "ingredient_name": "to taste",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "salt"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Vegetable",
+        "grocery_unit": "kg",
+        "conversion_ratio": 9.0,
+        "grocery_qty_needed": 0.111,
+        "MOQ": "1 kg",
+        "shelf_life_days": 3
+      },
+      "note": "Inferred from category 'vegetable'"
+    },
+    {
+      "ingredient_name": "oil or cooking spray for sprinkling around edges of dosa",
+      "recipe_quantity": {
+        "value": 1,
+        "unit": "vegetable"
+      },
+      "grocery_mapping": {
+        "grocery_name": "Generic Liquid",
+        "grocery_unit": "l",
+        "conversion_ratio": 10.0,
+        "grocery_qty_needed": 0.1,
+        "MOQ": "1 l",
+        "shelf_life_days": 7
+      },
+      "note": "Inferred from category 'liquid'"
+    }
+  ],
+  "steps": {
+    "prep": [
+      "Mix all the ingredients for the dosa in a large bowl. Pour enough water to cover by 2-3 inches. Cover and set aside to soak for 8 hours.",
+      "After the ingredients have soaked strain them. Place them in a blender with a cup of water--I like to break this up in batches, so I do half the ingredients at a time with half a cup of water each.",
+      "Blend the batter for 30 seconds, preferably in a high-powered blender, then continue blending in 10-second spurts until you reach the desired consistency. The batter should feel very smooth but you should feel a tiny amount of grittiness from the rice when you rub it between your fingers. This will result in crispy dosas.",
+      "The batter should be thick but pourable. If you find that it&#39;s too thick add the remaining half cup of water slowly.",
+      "Return the batter to the bowl and cover it. Now place it in a warm place to ferment for at least 8 hours or overnight. See notes for more guidance on how to do this."
+    ],
+    "cook": [
+      "The fermented batter will be puffy. Stir it a few times to deflate the puffiness so you can shape the dosas more easily.",
+      "Heat a griddle to the point where drops of water sprinkled on it sizzle and evaporate within five seconds. Do not oil the griddle.",
+      "Pour a ladleful of the batter in the center of the griddle. Quickly, moving outward in a spiral fashion, spread the dosa using the bottom of the ladle. A rounded ladle works best for this.",
+      "Sprinkle a few drops of oil around the edges of the dosa. You can also spray cooking spray around the edges but turn down the heat while you do this so you don&#39;t get the spray directly on the gas flame.",
+      "Once the dosa edges look lacy and golden-brown and the top has dried out completely loosen the dosa from the griddle gently with a flat spatula and remove to a plate.",
+      "Serve hot."
+    ]
+  },
+  "nutrition": {
+    "calories_kcal": 1339.01,
+    "carbohydrates_g": 247.97,
+    "protein_g": 31.48,
+    "fat_g": 22.2,
+    "fiber_g": 11.73,
+    "sodium_mg": 963.32,
+    "note": "Values are estimated via Nutritionix or similar API"
+  }
+}
